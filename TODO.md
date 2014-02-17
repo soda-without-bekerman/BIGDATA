@@ -21,7 +21,7 @@
 - **DONE** Бобровский НПЗ (Банкрот)
 - **DONE** Клявлинский НПЗ (Банкрот)
 
-[@OvchinnikovG](https://twitter.com/GeorgeOvchinn)
+[@OvchinnikovG](https://twitter.com/OvchinnikovG)
 - **DONE** Омский НПЗ
 - **DONE** Когалымский НПЗ
 - **DONE** Сургутский НПЗ
