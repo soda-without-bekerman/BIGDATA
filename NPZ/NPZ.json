@@ -9,9 +9,10 @@
    "postcode":169400,
    "products": ["мазут топочный", "битум нефтяной", "битум сланцевый", "мазут флотский", "топливо дизельное", "нефтепродукты", "бензин", "масла смазочные", "топливо дизельное зимнее", "топливо моторное"],
    "phone": "5-23-55",
-   "amail":
+   "amail":"mail@unp.lukoil.ru",
+   "site":"http://unp.lukoil.ru",
    "personnel":1360,
-   "director": "Николай Дегтерев"
+   "director": "Николай Дегтерев",
    "shareholders":
    },
    
@@ -26,6 +27,7 @@
     "producrs":["Бензин", "керосин", "мазут", "дизельное топливо"],
     "phone":7391595-33-10,
     "amail": "sekr1@anpz.rosneft.ru",
+    "site":["http://achnpz.ru", "http://www.rosneft.ru/Downstream/refining/Refineries/Achinsk_Refinery"],
     "personnel":2000 "(за 2006 год)",
     "director":"Кинзуль Александр Петрович ",
     "shareholders":["«Нефть-Актив» — 75 %","Манчук Игорь Яковлевич 35 %"]
@@ -39,22 +41,31 @@
     "lat":57.545449,
     "long":39.789346,
     "volume":15,
-    "postcode":
-    "products": [],
-    "phone":
-    "personnel":
-    "director": ""
+    "postcode":150023,
+    "products":["бензин", "дизельное топливо", "керосин", "моторные масла", "сжиженные газы", "топочный мазут", "ароматические углеводороды"],
+    "phone":8485249-81-00,
+    "amail":"post@yorp.yaroslavl.ru",
+    "site":"http://refinery.yaroslavl.ru"
+    "personnel":5000,
+    "director": "Никитин Александр Анатольевич",
+    "shareholders":"Крупнейшие акционеры — компании «Газпром нефть» и ТНК-BP"
   },
 
    {
+    "name":"Рязанский НПЗ",
     "address":"Россия, г.Рязань, район Южный промузел, д. 8",
+    "founded":1960,
     "lat":54.629132,
     "long":39.735211,
-    "name":"Рязанский НПЗ",
     "volume":17,
-    "founded":1960,
+    "postcode":
     "products": [],
+    "phone":
+    "amail":
+    "site":
+    "personnel":
     "director": ""
+    "shareholders":
    },
 
    {
@@ -188,17 +199,6 @@
    "products": [],
    "director": ""
    },
-
-   {
-   "address":"Россия, Ярославская обл. ,г.Ярославль, Московский проспект, дом 130",
-   "lat":57.555013,
-   "long":39.814269,
-   "name":"Славнефть-ЯНОС",
-   "volume":14,
-   "founded":1961,
-   "products": [],
-   "director": ""
-   },
    
    {
    "address":"Россия, Ханты-Мансийский авт.округ,г. Сургут, Университетская улица, 1",
@@ -329,17 +329,6 @@
    "name": "НК Альянс",
    "volume": 4.35,
    "founded":1935,
-   "products": [],
-   "director": ""
-  },
-
-  {
-   "address":"Россия, 390011, Россия, Рязанская обл., г.Рязань, район Южный промузел, д. 8",
-   "lat": 57.34269,
-   "long": 37.47846,
-   "name": "Славнефть-ЯНОС",
-   "volume": 17,
-   "founded":1952,
    "products": [],
    "director": ""
   },
