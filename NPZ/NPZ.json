@@ -7,12 +7,12 @@
    "long":53.717752,
    "volume":5.8,
    "postcode":169400,
-   "products": ["мазут топочный", "битум нефтяной", "битум сланцевый", "мазут флотский", "топливо дизельное", "нефтепродукты", "бензин", "масла смазочные", "топливо дизельное зимнее", "топливо моторное"],
+   "products":["мазут топочный", "битум нефтяной", "битум сланцевый", "мазут флотский", "топливо дизельное", "нефтепродукты", "бензин", "масла смазочные", "топливо дизельное зимнее", "топливо моторное"],
    "phone": "5-23-55",
    "amail":"mail@unp.lukoil.ru",
    "site":"http://unp.lukoil.ru",
    "personnel":1360,
-   "director": "Николай Дегтерев",
+   "CEO":"Николай Дегтерев",
    "shareholders":
    },
    
@@ -26,10 +26,10 @@
     "postcode":662110,
     "producrs":["Бензин", "керосин", "мазут", "дизельное топливо"],
     "phone":7391595-33-10,
-    "amail": "sekr1@anpz.rosneft.ru",
+    "amail":"sekr1@anpz.rosneft.ru",
     "site":["http://achnpz.ru", "http://www.rosneft.ru/Downstream/refining/Refineries/Achinsk_Refinery"],
     "personnel":2000 "(за 2006 год)",
-    "director":"Кинзуль Александр Петрович ",
+    "CEO":"Кинзуль Александр Петрович ",
     "shareholders":["«Нефть-Актив» — 75 %","Манчук Игорь Яковлевич 35 %"]
     },
 
@@ -47,7 +47,7 @@
     "amail":"post@yorp.yaroslavl.ru",
     "site":"http://refinery.yaroslavl.ru",
     "personnel":5000,
-    "director": "Никитин Александр Анатольевич",
+    "CEO":"Никитин Александр Анатольевич",
     "shareholders":"Крупнейшие акционеры — компании «Газпром нефть» и ТНК-BP"
   },
 
@@ -59,12 +59,12 @@
     "long":39.735211,
     "volume":17,
     "postcode":390011,
-    "products": ["Бензин", "Реактивные топлива", "Мазут", "Нефтяной растворитель", "Твердые нефтепродукты", "Углеводородное сырье", "Углеводородные газы", "Масляные компоненты"],
-    "phone": [8491293-32-54, 8491293-30-84, 8491293-33-40, 8491293-32-40, 8491293-33-98, 8491293-37-44],
+    "products":["Бензин", "Реактивные топлива", "Мазут", "Нефтяной растворитель", "Твердые нефтепродукты", "Углеводородное сырье", "Углеводородные газы", "Масляные компоненты"],
+    "phone":[8491293-32-54, 8491293-30-84, 8491293-33-40, 8491293-32-40, 8491293-33-98, 8491293-37-44],
     "amail":"rnpk@tnk-bp.com",
     "site":"http://www.rnpk.ru",
     "personnel":"",
-    "director": "",
+    "CEO": "",
     "shareholders":"ТНК-30%"
    },
 
@@ -76,7 +76,7 @@
     "volume":17,
     "founded":1958,
     "products": [],
-    "director": ""
+    "CEO": ""
   },
 
    {
@@ -87,7 +87,7 @@
     "volume":1.2,
     "founded":1998,
     "products": [],
-    "director": ""
+    "CEO": ""
    },
    
    {
@@ -98,7 +98,7 @@
     "volume":3,
     "founded":1911,
     "products": [],
-    "director": ""
+    "CEO": ""
    },
 
    {
@@ -109,7 +109,7 @@
     "volume":5.25,
     "founded":1963,
     "products": [],
-    "director": ""
+    "CEO": ""
    },
 
    {
@@ -120,7 +120,7 @@
     "volume":5,
     "founded":1929,
     "products": [],
-    "director": ""
+    "CEO": ""
    },
 
    {
@@ -131,7 +131,7 @@
     "volume":11,
     "founded":1957,
     "products": [],
-    "director": ""
+    "CEO": ""
    },
 
    {
@@ -142,7 +142,7 @@
     "volume":20,
     "founded":1955,
     "products": [],
-    "director": ""
+    "CEO": ""
    },
 
    {
@@ -153,7 +153,7 @@
      "volume":1.9,
      "founded":1981,
      "products": [],
-     "director": ""
+     "CEO": ""
    },
 
    {
@@ -164,7 +164,7 @@
    "volume":7.5,
    "founded":2006,
    "products": [],
-   "director": ""
+   "CEO": ""
    },
  
     {
@@ -175,7 +175,7 @@
    "volume":0.3,
    "founded":1999,
    "products": [],
-   "director": ""
+   "CEO": ""
    },
 
    {
@@ -186,7 +186,7 @@
    "volume":0.1,
    "founded":1995,
    "products": [],
-   "director": ""
+   "CEO": ""
    },
 
    {
@@ -197,7 +197,7 @@
    "volume":1.5,
    "founded":2008,
    "products": [],
-   "director": ""
+   "CEO": ""
    },
    
    {
@@ -208,7 +208,7 @@
    "volume":4,
    "founded":1985,
    "products": [],
-   "director": ""
+   "CEO": ""
     },
    
    {
@@ -219,7 +219,7 @@
    "volume":0.3,
    "founded":1976,
     "products": [],
-    "director": ""
+    "CEO": ""
    },
   
    {
@@ -230,7 +230,7 @@
     "volume":6.7,
     "founded":1940,
     "products": [],
-    "director": ""
+    "CEO": ""
    },
   
     {
@@ -241,7 +241,7 @@
     "volume":0.75,
     "founded":2001,
     "products": [],
-    "director": ""
+    "CEO": ""
    },
     
    {
@@ -252,7 +252,7 @@
     "volume":7,
     "founded":1943,
     "products": [],
-    "director": ""
+    "CEO": ""
    }, 
    
    {
@@ -263,7 +263,7 @@
     "volume":6.6,
     "founded":1934,
     "products": [],
-    "director": ""
+    "CEO": ""
    },
    
    
@@ -275,7 +275,7 @@
     "volume":7,
     "founded":1997,
     "products": [],
-    "director": ""
+    "CEO": ""
    },
    
    {
@@ -286,7 +286,7 @@
     "volume":1.2,
     "founded":1995,
     "products": [],
-    "director": ""
+    "CEO": ""
    },
    
    {
@@ -297,7 +297,7 @@
     "volume":23.7,
     "founded":1976,
     "products": [],
-    "director": ""
+    "CEO": ""
    },
    
   
@@ -309,7 +309,7 @@
     "volume":-1,
     "founded":2006,
     "products": [],
-    "director": "" 
+    "CEO": "" 
    },
    {
    "address":"Россия,682860, Хабаровский край, п. Ванино, ул. Одесская, 1А",
@@ -319,7 +319,7 @@
    "volume": 0.6,
    "founded":1991,
    "products": [],
-   "director": ""
+   "CEO": ""
   },
  
    {
@@ -330,7 +330,7 @@
    "volume": 4.35,
    "founded":1935,
    "products": [],
-   "director": ""
+   "CEO": ""
   },
 
   {
@@ -341,7 +341,7 @@
    "volume": 6,
    "founded":2008,
    "products": [],
-   "director": ""
+   "CEO": ""
   },
 
    {
@@ -352,7 +352,7 @@
    "volume": 12.2,
    "founded":1995,
    "products": ["Нефтепродукты", "Битум", "Мазут"],
-   "director": "Файрузов Данис Хасанович"
+   "CEO": "Файрузов Данис Хасанович"
    },
    
    {
@@ -363,6 +363,6 @@
    "volume":-2,
    "founded":2007,
    "products": ["Кокс", "нефтепродукты", "ядерные материалы"],
-   "director":"Кантор Вадим Евгеньевич"
+   "CEO":"Кантор Вадим Евгеньевич"
    }
 ]
