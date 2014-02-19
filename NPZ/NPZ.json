@@ -311,32 +311,39 @@
     "products": [],
     "CEO": "" 
    },
+   
    {
-   "address":"Россия,682860, Хабаровский край, п. Ванино, ул. Одесская, 1А",
-   "lat":   49.078279,
-   "long":  140.284546,
    "name": "ГК Трансбункер",
-   "volume": 0.6,
+   "address":"Россия, Хабаровский край, п. Ванино, ул. Одесская, 1А",
    "founded":1991,
-   "products": [],
-   "CEO": ""
+   "lat": 49.078279,
+   "long":140.284546,
+   "volume": 0.6,
+   "postcode":682860,
+   "products":[],
+   "phone":8812380-4388, 
+   "email":"",
+   "site":"",
+   "personnel":"",
+   "CEO":"Соболев Сергей Николаевич"
+   "shareholders":
   },
  
    {
    "name": "НК Альянс",
    "address":"Россия,680011,  г. Хабаровск, ул. Металлистов, 17",
    "founded":1935,
-   "lat":   48.29334,
-   "long":  135.475,
+   "lat":48.29334,
+   "long":135.475,
    "volume": 4.35,
    "postcode":680011,
-   "products": [],
-   "phone":
-   "email":
-   "site":
-   "personnel":
-   "CEO": ""
-   "shareholders":
+   "products":["Бензин", "Мазут", "Дизель", "Керосин", "Судовой топливо", "Масла", "Битум"],
+   "phone":8495777-18-08,
+   "email":"info@nk-alliance.ru",
+   "site":"http://www.nk-alliance.ru",
+   "personnel":"",
+   "CEO": "Евгений Воробейчик",
+   "shareholders":"WSR-100 %"
   },
 
   {
@@ -351,7 +358,7 @@
    "phone":8384399-30-70,
    "email":"ynpz@nhs.su",
    "site":"http://www.nhs-kuzbass.ru",
-   "personnel":,
+   "personnel":"",
    "CEO": "Кушнир Георгий Владимирович",
    "Chairman of the Board of Directors":"Кушнеров Юрий Петрович",
    "shareholders":""
