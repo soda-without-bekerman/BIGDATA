@@ -32,4 +32,4 @@
 
 ## Инструменты (#tools)
 
--  [Git - для начинающих](https://github.com/soda-io/git-cheatsheet)
+-  [Git - для начинающих](https://github.com/soda-io/Hacks-and-Tips/tree/master/git-cheatsheet)
