@@ -33,4 +33,4 @@
 
 ## Инструменты (#tools)
 
--  [Git - для начинающих](https://github.com/soda-io/Hacks-and-Tips/tree/master/git-cheatsheet), (https://github.com/progit/progit/blob/master/ru/02-git-basics/01-chapter2.markdown)
+-  [Git - для начинающих] [(https://github.com/soda-io/Hacks-and-Tips/tree/master/git-cheatsheet), (https://github.com/progit/progit/blob/master/ru/02-git-basics/01-chapter2.markdown)]
