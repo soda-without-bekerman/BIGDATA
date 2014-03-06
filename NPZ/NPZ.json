@@ -140,24 +140,30 @@
     "lat":44.883651,
     "long":38.826431,
     "volume":5.25,
-    "postcode":,
-    "products":[],
-    "phone":,
-    "amail":"",
-    "site":"",
+    "postcode":353236,
+    "products":["бензин", "Дизельное топливо", "Моторное топливо", "Судовое топливо", "Мазут"],
+    "phone":[9(86166)60-500, 8(86166)3-38-31],
+    "amail":"office@afinpz.ru",
+    "site":"http://www.afipnpz.ru",
     "personnel":,
-    "CEO":"",
-    "shareholders":""
+    "CEO":"А.А. Горишный",
+    "shareholders":"НефтеГазИндутрия"
 
    {
+    "name":"Туапсинский НПЗ", 
     "address":"Россия, Краснодарский край, г. Туапсе, ул. Сочинская, 1",
+    "founded":1929,
     "lat":44.099931,
     "long":39.095875,
-    "name":"Туапсинский НПЗ",
     "volume":5,
-    "founded":1929,
-    "products": [],
-    "CEO": ""
+    "postcode":352800,
+    "products":["Бензин", "Дизельное топливо", "Мазут"],
+    "phone":8(86167)77-7-14,
+    "amail":"secretary@rn-tnpz.ru",
+    "site":"http://www.rosneft.ru/Downstream/refining/Refineries/Tuapse_Refinery",
+    "personnel":,
+    "CEO":"А.В. Вотинов",
+    "shareholders":"ОАО НК Роснефть"
    },
 
    {
