@@ -20,7 +20,7 @@
 
 ![Map](Map.jpg)
 ![map](map.png)
-![Карта Российской нефтепереработки](Карта Российской нефтепереработки.jpg)
-![Карта экспорта нефти](Карта экспорта нефти.jpg)
+![Карта Российской нефтепереработки](KartaTossiyskoyNeftepererabotri.jpg)
+![Карта экспорта нефти](KartaExportaNefti.jpg)
 ![Невтепроводы](KartaNefteprovod.jpg)
 ![Система трубопроводов](SistemaTruboprovodov.gif)
