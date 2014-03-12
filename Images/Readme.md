@@ -2,7 +2,6 @@
 
 ![Диоды](Diods.jpg)
 ![Even Better preview featured](Even_Better_preview_featured.jpg)
-![Transparent View Better preview featured](Transparent_View_Better_preview_featured.jpg)
 ![Fuel tank small](Fuel_tank_small.png)
 
 ## Макет НПЗ
