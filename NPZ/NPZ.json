@@ -13,7 +13,6 @@
    "site":"http://unp.lukoil.ru",
    "personnel":1360,
    "CEO":"Николай Дегтерев",
-   "shareholders":
    },
    
    {
@@ -72,7 +71,6 @@
     "phone":[8491293-32-54, 8491293-30-84, 8491293-33-40, 8491293-32-40, 8491293-33-98, 8491293-37-44],
     "amail":"rnpk@tnk-bp.com",
     "site":"http://www.rnpk.ru",
-    "personnel":,
     "CEO": "Абрамов Владимир Владимирович",
     "shareholders":[
       {
@@ -92,11 +90,9 @@
     "postcode":607650,
     "products":["Бензин автомобильный", "Дизельное топливо", "Реактивное топливо", "Судовое топливо", "Печное топливо", "Вакуумный газойль", "Бензин технологический", "Мазут", "Битум", "Масла", "Кокс"],
     "phone":[8831-455-48-74 , 8831-455-30-33],
-    "amail":"",
     "site":"nnos.lukoil.ru",
     "personnel":2400,
     "CEO":"Коваленко Алексей Николаевич ",
-    "shareholders":""
   },
 
     {
@@ -110,8 +106,6 @@
     "products":["Бензин", "Судовой топливо", "Дизельно топливо", "Керосин", "Мазут", "Газойль", "Битум", "Гудрон"]
     "phone":[8836-268-10-10, 8836-268-10-20],
     "email":"mnpz@marnpz.ru",
-    "site":"",
-    "personnel":"",
     "CEO":"Ницуленко Владимир Илларионович",
     "shareholders":["Артур Перепелкин", "Алексей Милеев", "Николай Хватов", "Сергей Корендович"]
     }
@@ -126,11 +120,9 @@
     "postcode":350007,
     "products":["Бензин", "Дизельное топливо", "Моторное топливо", "Авиационное топливо", "Судовое топливо", "Мазут"],
     "phone":[ 8861-219-83-11, 8861-268-77-83],
-    "amail":["secretar@knpz-ken.ru", "office@afipnpz.ru"],
+    "email":["secretar@knpz-ken.ru", "office@afipnpz.ru"],
     "site":"http://www.afipnpz.ru",
-    "personnel":,
     "CEO":"Горишний Алексей Анатольевич",
-    "shareholders":""
    },
 
    {
@@ -143,9 +135,8 @@
     "postcode":353236,
     "products":["бензин", "Дизельное топливо", "Моторное топливо", "Судовое топливо", "Мазут"],
     "phone":[8861-666-05-00, 8861-663-38-31],
-    "amail":"office@afinpz.ru",
+    "email":"office@afinpz.ru",
     "site":"http://www.afipnpz.ru",
-    "personnel":,
     "CEO":"А.А. Горишный",
     "shareholders":"НефтеГазИндутрия"
 
@@ -159,7 +150,7 @@
     "postcode":352800,
     "products":["Бензин", "Дизельное топливо", "Мазут"],
     "phone":8886-167-77-14,
-    "amail":"secretary@rn-tnpz.ru",
+    "email":"secretary@rn-tnpz.ru",
     "site":"http://www.rosneft.ru/Downstream/refining/Refineries/Tuapse_Refinery",
     "personnel":,
     "CEO":"А.В. Вотинов",
