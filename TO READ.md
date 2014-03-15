@@ -36,4 +36,5 @@
 -  [Git - для начинающих](https://github.com/soda-io/Hacks-and-Tips/tree/master/git-cheatsheet)
 -  [Полная инструкция Git](https://github.com/progit/progit/blob/master/ru/02-git-basics/01-chapter2.markdown)
 
-# [Вопросы родителей] (https://gist.github.com/DmitryShiukaev/d78944d22ff9f4fe154f/edit)
+## Вопросы  
+- [Вопросы родителей] (https://gist.github.com/DmitryShiukaev/d78944d22ff9f4fe154f/edit)
