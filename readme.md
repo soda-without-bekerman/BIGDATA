@@ -36,16 +36,15 @@
  ![](https://avatars3.githubusercontent.com/u/4639509?s=46) Artem Kvadzba   | обработка данных              |8 **✓**|
  ![](https://avatars0.githubusercontent.com/u/3833771?s=46) Pavel Shalaginov| 3D-модели, 3D-печать          |10 **✓**|
  ![](https://avatars2.githubusercontent.com/u/3838734?s=46) Maxim Loguncov  | 3D-модели                     |7 **✓**|
- ![](https://avatars3.githubusercontent.com/u/6450286?s=46) Nikita Golub    | фото, презентации             |0|
  ![](https://avatars1.githubusercontent.com/u/6061182?s=46) George Ovchinnikov|код, обработка данных        |7 **✓**|
  ![](https://avatars1.githubusercontent.com/u/6498865?s=46) Misha Rubnicov  | обработка данных              |6 **✓**|
- ![](https://avatars0.githubusercontent.com/u/6568321?s=46) Tanya Petrova   | SocialMedia                   |0|
  ![](https://avatars0.githubusercontent.com/u/4226210?s=46) Sheroz Karimov  | 3D-модели                     |6 **✓**|
  ![](https://avatars0.githubusercontent.com/u/147170?s=46) Kirill Temnov    | интеграция                    |0|
  ![](https://avatars0.githubusercontent.com/u/842476?s=46) Vitaly GB        | координация                   |0|
                                                                             |                               |
- Тищенко Надежда Ивановна (гражданин мира)                                  |Учитель географии              |0|
-
+ ![](https://avatars2.githubusercontent.com/u/1478258?s=46) Тищенко Надежда (гражданин мира)                                  |Учитель географии              |0|
+ ![](https://avatars3.githubusercontent.com/u/6450286?s=46) Nikita Golub    | фото, презентации             |0|
+ ![](https://avatars0.githubusercontent.com/u/6568321?s=46) Tanya Petrova   | SocialMedia                   |0|
 
 
 ## Использованная литература
