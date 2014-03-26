@@ -30,21 +30,21 @@
 
 В проекте принимают участие резиденты школьного инкубатора/акселератора SODA LABS:
 
-|                                                                           |                               |
-|---------------------------------------------------------------------------|:------------------------------|
- ![](https://avatars3.githubusercontent.com/u/5991448?s=46) Dmitry Shiukaev | Лидер проекта\обработка данных|
- ![](https://avatars3.githubusercontent.com/u/4639509?s=46) Artem Kvadzba   | обработка данных              |
- ![](https://avatars0.githubusercontent.com/u/3833771?s=46) Pavel Shalaginov| 3D-модели, 3D-печать          |
- ![](https://avatars2.githubusercontent.com/u/3838734?s=46) Maxim Loguncov  | 3D-модели                     |
- ![](https://avatars3.githubusercontent.com/u/6450286?s=46) Nikita Golub    | фото, презентации             |
- ![](https://avatars1.githubusercontent.com/u/6061182?s=46) George Ovchinnikov|код, обработка данных        |
- ![](https://avatars1.githubusercontent.com/u/6498865?s=46) Misha Rubnicov  | обработка данных              |
- ![](https://avatars0.githubusercontent.com/u/6568321?s=46) Tanya Petrova   | SocialMedia                   |
- ![](https://avatars0.githubusercontent.com/u/4226210?s=46) Sheroz Karimov  | 3D-модели                     | 
- ![](https://avatars0.githubusercontent.com/u/147170?s=46) Kirill Temnov    | интеграция                    |
- ![](https://avatars0.githubusercontent.com/u/842476?s=46) Vitaly GB        | координация                   |
+|                                                                           |                               |ToDo **✓**|
+|---------------------------------------------------------------------------|:------------------------------|:----:|
+ ![](https://avatars3.githubusercontent.com/u/5991448?s=46) Dmitry Shiukaev | Лидер проекта\обработка данных|10**✓**|
+ ![](https://avatars3.githubusercontent.com/u/4639509?s=46) Artem Kvadzba   | обработка данных              |8**✓**|
+ ![](https://avatars0.githubusercontent.com/u/3833771?s=46) Pavel Shalaginov| 3D-модели, 3D-печать          |10**✓**|
+ ![](https://avatars2.githubusercontent.com/u/3838734?s=46) Maxim Loguncov  | 3D-модели                     |7**✓**|
+ ![](https://avatars3.githubusercontent.com/u/6450286?s=46) Nikita Golub    | фото, презентации             |**▢** |
+ ![](https://avatars1.githubusercontent.com/u/6061182?s=46) George Ovchinnikov|код, обработка данных        |7**✓**|
+ ![](https://avatars1.githubusercontent.com/u/6498865?s=46) Misha Rubnicov  | обработка данных              |6**✓**|
+ ![](https://avatars0.githubusercontent.com/u/6568321?s=46) Tanya Petrova   | SocialMedia                   |**▢** |
+ ![](https://avatars0.githubusercontent.com/u/4226210?s=46) Sheroz Karimov  | 3D-модели                     |6**✓**|
+ ![](https://avatars0.githubusercontent.com/u/147170?s=46) Kirill Temnov    | интеграция                    |**✓**|
+ ![](https://avatars0.githubusercontent.com/u/842476?s=46) Vitaly GB        | координация                   |**✓**|
                                                                             |                               |
- Тищенко Надежда Ивановна (гражданин мира)                                  |Учитель географии              |
+ Тищенко Надежда Ивановна (гражданин мира)                                  |Учитель географии              |**▢** |
 
 
 
@@ -110,7 +110,7 @@
 - **✓** Антипинский НПЗ
 - **✓** Урайский НПЗ
 - **✓** Cлавнефть-ЯНОС
-- **JUST A PROJEСT** НПЗ в Алтайском крае1
+- **JUST A PROJEСT** НПЗ в Алтайском крае
 
 ![](https://avatars1.githubusercontent.com/u/6498865?s=36) Misha Rubnikov
 - **✓** Краснодарский  НПЗ
@@ -122,7 +122,7 @@
 - **JUST A PROJEСT** Балайский НПЗ
 - **JUST A PROJEСT** Бугурусланский НПЗ
 
-![](https://avatars0.githubusercontent.com/u/4226210?s=36) SherozKarimov
+![](https://avatars0.githubusercontent.com/u/4226210?s=36) Sheroz Karimov
 - **✓** Краснодарский  НПЗ
 - **✓** Волгоградский НПЗ
 - **✓** Астраханский НПЗ
