@@ -33,19 +33,19 @@
 
 |                                                                             |                              |ToDo **✓**|
 |---------------------------------------------------------------------------  |:------------------------------|:----:|
- ![](https://avatars3.githubusercontent.com/u/5991448?s=46) Dmitry Shiukaev   | Лидер проекта\обработка данных|10 **✓**|
- ![](https://avatars3.githubusercontent.com/u/4639509?s=46) Artem Kvadzba     | обработка данных              |8 **✓**|
- ![](https://avatars0.githubusercontent.com/u/3833771?s=46) Pavel Shalaginov  | 3D-модели, 3D-печать          |10 **✓**|
- ![](https://avatars2.githubusercontent.com/u/3838734?s=46) Maxim Loguncov    | 3D-модели                     |7 **✓**|
- ![](https://avatars1.githubusercontent.com/u/6061182?s=46) George Ovchinnikov|код, обработка данных          |7 **✓**|
- ![](https://avatars1.githubusercontent.com/u/6498865?s=46) Misha Rubnicov    | обработка данных              |6 **✓**|
- ![](https://avatars0.githubusercontent.com/u/4226210?s=46) Sheroz Karimov    | 3D-модели                     |6 **✓**|
- ![](https://avatars0.githubusercontent.com/u/147170?s=46) Kirill Temnov      | интеграция                    |0|
- ![](https://avatars0.githubusercontent.com/u/842476?s=46) Vitaly GB          | координация                   |0|
+ ![](https://avatars3.githubusercontent.com/u/5991448?s=36) Dmitry Shiukaev   | Лидер проекта\обработка данных|10 **✓**|
+ ![](https://avatars3.githubusercontent.com/u/4639509?s=36) Artem Kvadzba     | обработка данных              |8 **✓**|
+ ![](https://avatars0.githubusercontent.com/u/3833771?s=36) Pavel Shalaginov  | 3D-модели, 3D-печать          |10 **✓**|
+ ![](https://avatars2.githubusercontent.com/u/3838734?s=36) Maxim Loguncov    | 3D-модели                     |7 **✓**|
+ ![](https://avatars1.githubusercontent.com/u/6061182?s=36) George Ovchinnikov|код, обработка данных          |7 **✓**|
+ ![](https://avatars1.githubusercontent.com/u/6498865?s=36) Misha Rubnicov    | обработка данных              |6 **✓**|
+ ![](https://avatars0.githubusercontent.com/u/4226210?s=36) Sheroz Karimov    | 3D-модели                     |6 **✓**|
+ ![](https://avatars0.githubusercontent.com/u/147170?s=36) Kirill Temnov      | интеграция                    |0|
+ ![](https://avatars0.githubusercontent.com/u/842476?s=36) Vitaly GB          | координация                   |0|
                                                                               |                               |
- ![](http://www.gravatar.com/avatar/f7e166e67e46c6cbccb66a54107f08b1?s=46) Тищенко Надежда Ивановна                                  |Учитель географии              |0|
- ![](https://avatars3.githubusercontent.com/u/6450286?s=46) Nikita Golub      | фото, презентации             |0|
- ![](https://avatars0.githubusercontent.com/u/6568321?s=46) Tanya Petrova     | SocialMedia                   |0|
+ ![](http://www.gravatar.com/avatar/f7e166e67e46c6cbccb66a54107f08b1?s=36)  Надежда Ивановна Тищенко                                 |Учитель географии              |0|
+ ![](https://avatars3.githubusercontent.com/u/6450286?s=36) Nikita Golub      | фото, презентации             |0|
+ ![](https://avatars0.githubusercontent.com/u/6568321?s=36) Tanya Petrova     | SocialMedia                   |0|
 
 
 ### == ИСТОЧНИКИ ==
@@ -65,117 +65,8 @@
  1. [HTMLBook.ru](http://htmlbook.ru/html5)
  1. [CSS. Википедия](http://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D0%BA%D0%B0%D0%B4%D0%BD%D1%8B%D0%B5_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B_%D1%81%D1%82%D0%B8%D0%BB%D0%B5%D0%B9)
 
-### == ГОТОВЫЕ НАБОРЫ ДАННЫХ ==
+### == Процесс. Результат. Выводы ==
 
-![](https://avatars0.githubusercontent.com/u/3833771?s=14) @PavelShalaginov
-- **✓** Трансбункер Ванино
-- **✓** Хабаровский НПЗ
-- **✓** Московский НПЗ
-- **✓** НПЗ ЯрославНОС
-- **✓** Рязанский НПЗ
-- **✓** Яйский НПЗ
-- **✓** Салаватский НПЗ
-- **✓** Белоглинский НПЗ
-- **✓** Бобровский НПЗ (Банкрот)
-- **✓** Клявлинский НПЗ (Банкрот)
-
-![](https://avatars1.githubusercontent.com/u/6061182?s=14) @GeorgeOvchinnikov
-- **✓** Омский НПЗ
-- **✓** Когалымский НПЗ
-- **✓** Сургутский НПЗ
-- **✓** Стрежевское НПЗ
-- **✓** Антипинский НПЗ
-- **✓** Урайский НПЗ
-- **✓** Cлавнефть-ЯНОС
-- **JUST A PROJEСT** НПЗ в Алтайском крае
-
-![](https://avatars1.githubusercontent.com/u/6498865?s=14) @MishaRubnikov
-- **✓** Краснодарский  НПЗ
-- **✓** Волгоградский НПЗ
-- **✓** Астраханский НПЗ
-- **✓** Томский НПЗ
-- **✓** Кондинский НПЗ
-- **✓** Камарчагский НПЗ
-- **JUST A PROJEСT** Балайский НПЗ
-- **JUST A PROJEСT** Бугурусланский НПЗ
-
-![](https://avatars0.githubusercontent.com/u/4226210?s=14) @SherozKarimov
-- **✓** Краснодарский  НПЗ
-- **✓** Волгоградский НПЗ
-- **✓** Астраханский НПЗ
-- **✓** Томский НПЗ
-- **✓** Кондинский НПЗ
-- **✓** Камарчагский НПЗ
-
-
-![](https://avatars2.githubusercontent.com/u/3838734?s=14) @MaximLoguncov
-- **✓** Ухтинский НПЗ
-- **✓** Нижегородский НПЗ
-- **✓** Ильский НПЗ
-- **✓** Афипский НПЗ
-- **✓** Брянский НПЗ
-- **✓** Верхотурский НПЗ
-- **✓** Красноленинский НПЗ
-
-![](https://avatars3.githubusercontent.com/u/4639509?s=14) @ArtemKvadzba 
-- **✓** Саратовский НПЗ
-- **✓** Новокуйбышевский НПЗ
-- **✓** Куйбышевский НПЗ
-- **✓** Уфимский НПЗ
-- **✓** Орский НПЗ
-- **✓** Нижнекамский НПЗ
-- **✓** Марийский НПЗ
-- **✓** Лисичинский НПЗ
-
-![](https://avatars2.githubusercontent.com/u/5991448?s=14) @DmitryShiukaev
-- **✓** Туапсинский НПЗ
-- **✓** Комсомольский НПЗ
-- **✓** Ачинский НПЗ
-- **✓** Ангарский НПЗ
-- **✓** Урайский НПЗ
-- **✓** Новошахтинский НПЗ
-- **✓** Ново-уфимский НПЗ
-- **✓** Бакинский НПЗ
-- **✓** Уярский НПЗ
-- **✓** Пермский НПЗ
-
-# Пример кода из датасета
-
-```json
-[
-   {
-    "name"		: "Ачинский НПЗ",
-    "address"	: "Россия, Красноярский край, Большеулуйский район, промзона НПЗ ОАО АНПЗ ВНК",
-    "founded"	: 1976,
-    "lat"		: 56.453574,
-    "long"		: 90.534039,
-    "volume"	: 7.2,
-    "postcode"	: 662110,
-    "products"	: ["Бензин", "Керосин", "Мазут", "Дизельное топливо"],
-    "phone"		: "8391595-33-10",
-    "email"		: "sekr1@anpz.rosneft.ru",
-    "url"		: ["http://achnpz.ru", "http://www.rosneft.ru/Downstream/refining/Refineries/Achinsk_Refinery"],
-    "personnel"	: 2000,
-    "CEO"		: "Кинзуль Александр Петрович",
-    "shareholders"	: [ 
-       {  
-         "owner"	: "Нефть-Актив", 
-         "proportion": "75 %"
-        },
-       {
-         "owner"	: "Манчук Игорь Яковлевич",
-         "proportion": "25 %"
-        }
-        ]
-    },
-
-   ....
-
-]
-```
-
-### == Результат работы, выводы ==
-
-Мы научились работать с открытыми данными (искать, собирать, обрабатывать). Созданы Открытые данные по НПЗ России, и интерактивная карта (пока в процессе). Я считаю, что мы добились в полной мере всего, что хотеи получить от этого проекта. Проблема будет решена тогда, когда подобные проекты не еденичным явлением, а постоянным ->(это слово надо заменить). Мы будем продолжать работать с данными и обновлять информацию. Я считаю, что с нашим проектом должен ознакомится каждый.
+Мы научились работать с открытыми данными (искать, собирать, обрабатывать). Созданы Открытые данные по НПЗ России, и интерактивная карта (пока в процессе). Я ![](https://avatars0.githubusercontent.com/u/4226210?s=14)  [SherozKarimov](https://github.com/SherozKarimov) считаю, что мы добились в полной мере всего, что хотеи получить от этого проекта. Проблема будет решена тогда, когда подобные проекты не еденичным явлением, а постоянным ->(это слово надо заменить). Мы будем продолжать работать с данными и обновлять информацию....
 
  
