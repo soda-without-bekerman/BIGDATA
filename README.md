@@ -1,16 +1,36 @@
 # Refinery
+Проект направлен на создание открытых датасетов по НПЗ и нефтепроводам России.
 
-## Актуальность
-Востребованна. Мы сделали открытые данные по НПЗ, доступ к которым будут иметь ве желающие. Если бы это было не актуально, мы бы этого не делали.
+## ПРОБЛЕМЫ
+Нехватка открытых данных по НПЗ России
+
+## РЕШЕНИЕ
+Создание Датасетов и интерактивной карты НПЗ и нефтепроводов России.
+
+## МЕТОДЫ
+
+
 
 ## УЧАСТНИКИ
 В проекте принимают участие резиденты школьного инкубатора/акселератора SODA LABS:
 
-## ЦЕЛЬ
-Создание Датасетов и интерактивной карты НПЗ и нефтепроводов России.
+|                                                             |                                   |
+|-------------------------------------------------------------|----------------------------------:|
+ [@DmitryShiukaev](https://twitter.com/DmitryShiukaev)        | Лидер проекта\обработка данных    |
+ [@ArtemKvadzba](https://twitter.com/Artem_Kvadzba)           | обработка данных                  |
+ [@PavelShalaginov](https://twitter.com/PavelShalaginov)      | 3D-модели, 3D-печать              |
+ [@MaximLoguncov](https://twitter.com/MaximLoguncov)          | 3D-модели                         |
+ [@NikitaGolub](https://twitter.com/Nikita_Golub)             | фото, презентации,                |
+ [@GeorgeOvchinnikov](https://twitter.com/GeorgeOvchinn)      | код, обработка данных             |
+ [@MishaRubnicov](https://twitter.com/MishaRubnicov)          | обработка данных,                 |
+ [@TanyaPetrova](https://twitter.com/TanyaPetrova17)          | SocialMedia                       |
+ [@SherozKarimov](https://twitter.com/SherozKarimov)          | 3D-модели                         | 
+ [@KirillTemnov](https://twitter.com/KirillTemnov)            | интеграция                        |
+ [@VitalyGB](https://github.com/VitalyGB)                     | координация                       |
 
-## ОПИСАНИЕ
-Проект направлен на создание открытых датасетов по НПЗ и нефтепроводам России.
+
+
+
 
 ## Использованная литература
 Список сайтов: 
