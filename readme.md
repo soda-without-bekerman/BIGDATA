@@ -30,21 +30,21 @@
 
 В проекте принимают участие резиденты школьного инкубатора/акселератора SODA LABS:
 
-|                                                             |                                   |
-|-------------------------------------------------------------|----------------------------------:|
- [@DmitryShiukaev](https://github.com/DmitryShiukaev)         | Лидер проекта\обработка данных    |
- [@ArtemKvadzba](https://github.com/ArtemKvadzba)             | обработка данных                  |
- [@PavelShalaginov](https://github.com/PavelShalaginov)       | 3D-модели, 3D-печать              |
- [@MaximLoguncov](https://github.com/MaximLoguncov)           | 3D-модели                         |
- [@NikitaGolub](https://github.com/NikitaGolub)               | фото, презентации,                |
- [@GeorgeOvchinnikov](https://github.com/GeorgeOvchinnikov)   | код, обработка данных             |
- [@MishaRubnicov](https://github.com/MishaRubnicov)           | обработка данных,                 |
- [@TanyaPetrova](https://github.com/TanyaPetrova)             | SocialMedia                       |
- [@SherozKarimov](https://github.com/SherozKarimov)           | 3D-модели                         | 
- [@KirillTemnov](https://github.com/KirillTemnov)             | интеграция                        |
- [@VitalyGB](https://github.com/VitalyGB)                     | координация                       |
-                                                              |                                   |
- Тищенко Надежда Ивановна (гражданин мира)                     |Учитель географии                  |
+|                                                                           |                               |
+|---------------------------------------------------------------------------|:------------------------------|
+ ![](https://avatars2.githubusercontent.com/u/5991448?s=46) Dmitry Shiukaev | Лидер проекта\обработка данных|
+ ![](https://avatars3.githubusercontent.com/u/4639509?s=46) Artem Kvadzba   | обработка данных              |
+ ![](https://avatars0.githubusercontent.com/u/3833771?s=46) Pavel Shalaginov| 3D-модели, 3D-печать          |
+ ![](https://avatars2.githubusercontent.com/u/3838734?s=46) Maxim Loguncov  | 3D-модели                     |
+ ![](https://avatars3.githubusercontent.com/u/6450286?s=46) Nikita Golub    | фото, презентации             |
+ ![](https://avatars1.githubusercontent.com/u/6061182?s=46) George Ovchinnikov|код, обработка данных        |
+ ![](https://avatars1.githubusercontent.com/u/6498865?s=46) Misha Rubnicov  | обработка данных              |
+ ![](https://avatars0.githubusercontent.com/u/6568321?s=46) Tanya Petrova   | SocialMedia                   |
+ ![](https://avatars0.githubusercontent.com/u/4226210?s=46) Sheroz Karimov  | 3D-модели                     | 
+ ![](https://avatars0.githubusercontent.com/u/147170?s=46) Kirill Temnov    | интеграция                    |
+ ![](https://avatars0.githubusercontent.com/u/842476?s=46) Vitaly GB        | координация                   |
+                                                                            |                               |
+ Тищенко Надежда Ивановна (гражданин мира)                                  |Учитель географии              |
 
 
 
@@ -90,7 +90,7 @@
 
 # Сбор полной информации по НПЗ
 
-[@PavelShalaginov](https://twitter.com/PavelShalaginov)
+![](https://avatars0.githubusercontent.com/u/3833771?s=46) Pavel Shalaginov
 - **✓** Трансбункер Ванино
 - **✓** Хабаровский НПЗ
 - **✓** Московский НПЗ
@@ -102,7 +102,7 @@
 - **✓** Бобровский НПЗ (Банкрот)
 - **✓** Клявлинский НПЗ (Банкрот)
 
-[@GeorgeOvchinnikov](https://twitter.com/OvchinnikovG)
+![](https://avatars1.githubusercontent.com/u/6061182?s=46) George Ovchinnikov
 - **✓** Омский НПЗ
 - **✓** Когалымский НПЗ
 - **✓** Сургутский НПЗ
@@ -112,7 +112,7 @@
 - **✓** Cлавнефть-ЯНОС
 - **JUST A PROJEСT** НПЗ в Алтайском крае1
 
-[@MishaRubnikov](https://twitter.com/MishaRubnicov)
+![](https://avatars1.githubusercontent.com/u/6498865?s=46) Misha Rubnikov
 - **✓** Краснодарский  НПЗ
 - **✓** Волгоградский НПЗ
 - **✓** Астраханский НПЗ
@@ -122,7 +122,7 @@
 - **JUST A PROJEСT** Балайский НПЗ
 - **JUST A PROJEСT** Бугурусланский НПЗ
 
-[@SherozKarimov](https://twitter.com/SherozKarimov)
+![](https://avatars0.githubusercontent.com/u/4226210?s=46) SherozKarimov
 - **✓** Краснодарский  НПЗ
 - **✓** Волгоградский НПЗ
 - **✓** Астраханский НПЗ
@@ -131,7 +131,7 @@
 - **✓** Камарчагский НПЗ
 
 
-[@MaximLoguncov](https://twitter.com/MaximLoguncov)
+![](https://avatars2.githubusercontent.com/u/3838734?s=46) Maxim Loguncov
 - **✓** Ухтинский НПЗ
 - **✓** Нижегородский НПЗ
 - **✓** Ильский НПЗ
@@ -140,7 +140,7 @@
 - **✓** Верхотурский НПЗ
 - **✓** Красноленинский НПЗ
 
-[@ArtemKvadzba](https://twitter.com/ArtemKvadzba) 
+![](https://avatars3.githubusercontent.com/u/4639509?s=46) Artem Kvadzba 
 - **✓** Саратовский НПЗ
 - **✓** Новокуйбышевский НПЗ
 - **✓** Куйбышевский НПЗ
@@ -150,7 +150,7 @@
 - **✓** Марийский НПЗ
 - **✓** Лисичинский НПЗ
 
-[@DmitryShiukaev](https://twitter.com/DmitryShiukaev)
+![](https://avatars2.githubusercontent.com/u/5991448?s=46)  Dmitry Shiukaev
 - **✓** Туапсинский НПЗ
 - **✓** Комсомольский НПЗ
 - **✓** Ачинский НПЗ
