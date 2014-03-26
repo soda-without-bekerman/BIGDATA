@@ -1,13 +1,17 @@
 # Refinery
+
 Проект направлен на создание открытых датасетов и интерактивной карты НПЗ и нефтепроводам России.
 
 ## Побудило к созданию проекта
+
 Нехватка открытых данных по НПЗ России
 
 ## Цель
+
 Извлечение прибыли (монитизация)
 
 ## МЕТОДЫ
+
 Поиск, сбор, класификация, структурирование в машиночитаемый вид информации
 
 ## Timeline
@@ -20,6 +24,7 @@
 
 
 ## УЧАСТНИКИ
+
 В проекте принимают участие резиденты школьного инкубатора/акселератора SODA LABS:
 
 |                                                             |                                   |
@@ -36,59 +41,26 @@
  [@KirillTemnov](https://github.com/KirillTemnov)             | интеграция                        |
  [@VitalyGB](https://github.com/VitalyGB)                     | координация                       |
                                                               |                                   |
- Тищенко Надежда Ивановна(гражданин мира)                     |Учитель географии                  |
+ Тищенко Надежда Ивановна (гражданин мира)                     |Учитель географии                  |
 
 
 
 ## Использованная литература
-Список сайтов: 
-- www.rosneft.ru
-- www.lukoil.ru
-- www.afipnpz.ru
-- www.annpz.ru
-- www.gazprom.ru
-- [НПЗ России. Википедия](http://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%84%D1%82%D1%8F%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8)
-- www.livekuban.ru
-- i-npz.ru
-- krasnoyarsk.spravkon.ru
-- www.krasnodareconeft.ru
-- www.wiki-prom.ru
-- www.eurodisel.ru
-- mg-oil.ru
-- neftegaz.ru
-- www.bashneft.ru
-- www.oilrusi.ru
 
-# TO READ
-
-## Обязательно для прочтения
-- [wiki-prom list](http://www.wiki-prom.ru/20otrasl.html)
-- [wikipedia NPZ industry] (http://ru.wikipedia.org/wiki/Нефтеперерабатывающая_промышленность_России)
-- [benzol.ru](http://www.benzol.ru/npz/?status=2&page=1)
-- [rosneft.ru](http://www.rosneft.ru/Downstream/refining/)
-
-## Термины (#npzterms)
-
-- [Крупнейшие нефтеперерабатывающие заводы России](http://neftegas.info/engine/info/krupnjejshije-njeftjepjerjerabatyvajushhije-zavody-rossii)
- 
- - [Своевременное предложение](http://tbu.com.ua/digest/svoevremennoe_predlojenie.html)
-
- - [Макет: Принципиальная схема добычи, транспортировки и переработки углеводородных ресурсов](http://www.maket-russia.ru/portfolio/portfolio-uchebnye-makety-i-modeli/maket-printsipialnaya-skhema-dobychi-transportirovki-i-pererabotki-uglevodorodnykh-resursov/)
- 
- - [Индекс Нельсона] (http://neftegaz.ru/tech_library/view/4679)
- 
- - [ЭЛОУ-АВТ] (http://e-him.ru/?page=dynamic&section=61&article=1165) 
- 
- 
-## Формат JSON (#json)
-
--  [JSON](http://ru.wikipedia.org/wiki/JSON)
--  [JSON Formatter](http://jsonformatter.curiousconcept.com/)
-
-## HTML5 (#html5)
-
-- [HTMLBook.ru](http://htmlbook.ru/html5)
-- [CSS](http://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D0%BA%D0%B0%D0%B4%D0%BD%D1%8B%D0%B5_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B_%D1%81%D1%82%D0%B8%D0%BB%D0%B5%D0%B9)
+ 1. [НПЗ России. Википедия](http://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%84%D1%82%D1%8F%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8)
+ 1. [Список НПЗ России](http://www.wiki-prom.ru/20otrasl.html)
+ 1. [Нефтеперерабатывающая промышленность России](http://ru.wikipedia.org/wiki/Нефтеперерабатывающая_промышленность_России)
+ 1. [Каталог нефтеперерабатывающих заводов :: Бензин и горюче-смазочные материалы.](http://www.benzol.ru/npz/?status=2&page=1)
+ 1. [Роснефть - Нефтепереработка](http://www.rosneft.ru/Downstream/refining/)
+ 1. [Крупнейшие нефтеперерабатывающие заводы России](http://neftegas.info/engine/info/krupnjejshije-njeftjepjerjerabatyvajushhije-zavody-rossii)
+ 1. [Ведомости. "Своевременное предложение"](http://tbu.com.ua/digest/svoevremennoe_predlojenie.html)
+ 1. [Макет: Принципиальная схема добычи, транспортировки и переработки углеводородных ресурсов](http://www.maket-russia.ru/portfolio/portfolio-uchebnye-makety-i-modeli/maket-printsipialnaya-skhema-dobychi-transportirovki-i-pererabotki-uglevodorodnykh-resursov/)
+ 1. [Индекс Сложности Нельсона] (http://neftegaz.ru/tech_library/view/4679)
+ 1. [Первичная переработка нефти. Установки ЭЛОУ - АВТ] (http://e-him.ru/?page=dynamic&section=61&article=1165) 
+ 1. [JSON](http://ru.wikipedia.org/wiki/JSON) 
+ 1. [Проверка формата JSON](http://jsonformatter.curiousconcept.com/)
+ 1. [HTMLBook.ru](http://htmlbook.ru/html5)
+ 1. [CSS. Википедия](http://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D0%BA%D0%B0%D0%B4%D0%BD%D1%8B%D0%B5_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B_%D1%81%D1%82%D0%B8%D0%BB%D0%B5%D0%B9)
 
 
 # TO DO
