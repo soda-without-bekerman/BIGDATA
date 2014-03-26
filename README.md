@@ -188,33 +188,7 @@
 - **DONE** Пермский НПЗ
 
 #Пример
-[
-{
-    "name":"Ачинский НПЗ",
-    "address":"Россия, Красноярский край, Большеулуйский район, промзона НПЗ ОАО АНПЗ ВНК",
-    "founded":1976,
-    "lat":56.453574,
-    "long":90.534039,
-    "volume":7.2,
-    "postcode":662110,
-    "producrs":["Бензин", "Керосин", "Мазут", "Дизельное топливо"],
-    "phone": "8391595-33-10",
-    "email":"sekr1@anpz.rosneft.ru",
-    "url":["http://achnpz.ru", "http://www.rosneft.ru/Downstream/refining/Refineries/Achinsk_Refinery"],
-    "personnel":2000,
-    "CEO":"Кинзуль Александр Петрович",
-    "shareholders": [
-       {
-         "owner":"Нефть-Актив",
-         "proportion": "75 %"
-        },
-       {
-         "owner": "Манчук Игорь Яковлевич",
-         "proportion": "25 %"
-        }
-        ]
-    }
-]    
+[Ачинский НПЗ](https://gist.github.com/DmitryShiukaev/381839eab6a0dda78021)
 
 
 
