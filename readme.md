@@ -41,7 +41,8 @@
  ![](https://avatars0.githubusercontent.com/u/4226210?s=46) Sheroz Karimov  | 3D-модели                     |6 **✓**|
  ![](https://avatars0.githubusercontent.com/u/147170?s=46) Kirill Temnov    | интеграция                    |0|
  ![](https://avatars0.githubusercontent.com/u/842476?s=46) Vitaly GB        | координация                   |0|
- ![](https://avatars2.githubusercontent.com/u/1478258?s=46) Тищенко Надежда (гражданин мира)                                  |Учитель географии              |0|
+                                                                            |                               |
+ ![](http://www.gravatar.com/avatar/f7e166e67e46c6cbccb66a54107f08b1?s=46) Тищенко Надежда Ивановна                                  |Учитель географии              |0|
  ![](https://avatars3.githubusercontent.com/u/6450286?s=46) Nikita Golub    | фото, презентации             |0|
  ![](https://avatars0.githubusercontent.com/u/6568321?s=46) Tanya Petrova   | SocialMedia                   |0|
 
