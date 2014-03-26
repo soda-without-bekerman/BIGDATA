@@ -90,7 +90,7 @@
 
 # Сбор полной информации по НПЗ
 
-![](https://avatars0.githubusercontent.com/u/3833771?s=46) Pavel Shalaginov
+![](https://avatars0.githubusercontent.com/u/3833771?s=36) Pavel Shalaginov
 - **✓** Трансбункер Ванино
 - **✓** Хабаровский НПЗ
 - **✓** Московский НПЗ
@@ -102,7 +102,7 @@
 - **✓** Бобровский НПЗ (Банкрот)
 - **✓** Клявлинский НПЗ (Банкрот)
 
-![](https://avatars1.githubusercontent.com/u/6061182?s=46) George Ovchinnikov
+![](https://avatars1.githubusercontent.com/u/6061182?s=36) George Ovchinnikov
 - **✓** Омский НПЗ
 - **✓** Когалымский НПЗ
 - **✓** Сургутский НПЗ
@@ -112,7 +112,7 @@
 - **✓** Cлавнефть-ЯНОС
 - **JUST A PROJEСT** НПЗ в Алтайском крае1
 
-![](https://avatars1.githubusercontent.com/u/6498865?s=46) Misha Rubnikov
+![](https://avatars1.githubusercontent.com/u/6498865?s=36) Misha Rubnikov
 - **✓** Краснодарский  НПЗ
 - **✓** Волгоградский НПЗ
 - **✓** Астраханский НПЗ
@@ -122,7 +122,7 @@
 - **JUST A PROJEСT** Балайский НПЗ
 - **JUST A PROJEСT** Бугурусланский НПЗ
 
-![](https://avatars0.githubusercontent.com/u/4226210?s=46) SherozKarimov
+![](https://avatars0.githubusercontent.com/u/4226210?s=36) SherozKarimov
 - **✓** Краснодарский  НПЗ
 - **✓** Волгоградский НПЗ
 - **✓** Астраханский НПЗ
@@ -131,7 +131,7 @@
 - **✓** Камарчагский НПЗ
 
 
-![](https://avatars2.githubusercontent.com/u/3838734?s=46) Maxim Loguncov
+![](https://avatars2.githubusercontent.com/u/3838734?s=36) Maxim Loguncov
 - **✓** Ухтинский НПЗ
 - **✓** Нижегородский НПЗ
 - **✓** Ильский НПЗ
@@ -140,7 +140,7 @@
 - **✓** Верхотурский НПЗ
 - **✓** Красноленинский НПЗ
 
-![](https://avatars3.githubusercontent.com/u/4639509?s=46) Artem Kvadzba 
+![](https://avatars3.githubusercontent.com/u/4639509?s=36) Artem Kvadzba 
 - **✓** Саратовский НПЗ
 - **✓** Новокуйбышевский НПЗ
 - **✓** Куйбышевский НПЗ
@@ -150,7 +150,7 @@
 - **✓** Марийский НПЗ
 - **✓** Лисичинский НПЗ
 
-![](https://avatars2.githubusercontent.com/u/5991448?s=46)  Dmitry Shiukaev
+![](https://avatars2.githubusercontent.com/u/5991448?s=36)  Dmitry Shiukaev
 - **✓** Туапсинский НПЗ
 - **✓** Комсомольский НПЗ
 - **✓** Ачинский НПЗ
