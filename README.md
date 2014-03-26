@@ -1,11 +1,11 @@
 # Refinery
-Проект направлен на создание открытых датасетов по НПЗ и нефтепроводам России.
+Проект направлен на создание открытых датасетов и интерактивной карты НПЗ и нефтепроводам России.
 
-## ПРОБЛЕМЫ
+## Побудило к этому проекту
 Нехватка открытых данных по НПЗ России
 
-## РЕШЕНИЕ
-Создание Датасетов и интерактивной карты НПЗ и нефтепроводов России.
+## Цель
+Извлечение прибыли (монитизация)
 
 ## МЕТОДЫ
 Поиск, сбор, класификация, структурирование в машиночитаемый вид,
@@ -24,16 +24,16 @@
 
 |                                                             |                                   |
 |-------------------------------------------------------------|----------------------------------:|
- [@DmitryShiukaev](https://twitter.com/DmitryShiukaev)        | Лидер проекта\обработка данных    |
- [@ArtemKvadzba](https://twitter.com/Artem_Kvadzba)           | обработка данных                  |
- [@PavelShalaginov](https://twitter.com/PavelShalaginov)      | 3D-модели, 3D-печать              |
- [@MaximLoguncov](https://twitter.com/MaximLoguncov)          | 3D-модели                         |
- [@NikitaGolub](https://twitter.com/Nikita_Golub)             | фото, презентации,                |
- [@GeorgeOvchinnikov](https://twitter.com/GeorgeOvchinn)      | код, обработка данных             |
- [@MishaRubnicov](https://twitter.com/MishaRubnicov)          | обработка данных,                 |
- [@TanyaPetrova](https://twitter.com/TanyaPetrova17)          | SocialMedia                       |
- [@SherozKarimov](https://twitter.com/SherozKarimov)          | 3D-модели                         | 
- [@KirillTemnov](https://twitter.com/KirillTemnov)            | интеграция                        |
+ [@DmitryShiukaev](https://github.com/DmitryShiukaev)         | Лидер проекта\обработка данных    |
+ [@ArtemKvadzba](https://github.com/ArtemKvadzba)             | обработка данных                  |
+ [@PavelShalaginov](https://github.com/PavelShalaginov)       | 3D-модели, 3D-печать              |
+ [@MaximLoguncov](https://github.com/MaximLoguncov)           | 3D-модели                         |
+ [@NikitaGolub](https://github.com/NikitaGolub)               | фото, презентации,                |
+ [@GeorgeOvchinnikov](https://github.com/GeorgeOvchinnikov)   | код, обработка данных             |
+ [@MishaRubnicov](https://github.com/MishaRubnicov)           | обработка данных,                 |
+ [@TanyaPetrova](https://github.com/TanyaPetrova)             | SocialMedia                       |
+ [@SherozKarimov](https://github.com/SherozKarimov)           | 3D-модели                         | 
+ [@KirillTemnov](https://github.com/KirillTemnov)             | интеграция                        |
  [@VitalyGB](https://github.com/VitalyGB)                     | координация                       |
                                                               |                                   |
  Тищенко Надежда Ивановна(гражданин мира)                     |Учитель географии                  |
