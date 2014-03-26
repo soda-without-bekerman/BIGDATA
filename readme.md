@@ -20,9 +20,9 @@
 |:---------:|:---------------------------------------------|
 | 01.02     | **✓** Перевести данные НПЗ в `JSON`          |
 | 10.03     | **✓** Сбор данных по акционерам              |
-| 29.03     | **▢** Презентация                           |
-| 31.03     | **▢** Разработка кода  для датасета         |
-| 10.04     | **▢** Разработка приложения                 |
+| 29.03     | **▢** Презентация                            |
+| 31.03     | **▢** Разработка кода  для датасета          |
+| 10.04     | **▢** Разработка приложения                  |
 
 
 
@@ -30,21 +30,21 @@
 
 В проекте принимают участие резиденты школьного инкубатора/акселератора SODA LABS:
 
-|                                                                           |                               |ToDo **✓**|
-|---------------------------------------------------------------------------|:------------------------------|:----:|
- ![](https://avatars3.githubusercontent.com/u/5991448?s=46) Dmitry Shiukaev | Лидер проекта\обработка данных|10 **✓**|
- ![](https://avatars3.githubusercontent.com/u/4639509?s=46) Artem Kvadzba   | обработка данных              |8 **✓**|
- ![](https://avatars0.githubusercontent.com/u/3833771?s=46) Pavel Shalaginov| 3D-модели, 3D-печать          |10 **✓**|
- ![](https://avatars2.githubusercontent.com/u/3838734?s=46) Maxim Loguncov  | 3D-модели                     |7 **✓**|
- ![](https://avatars1.githubusercontent.com/u/6061182?s=46) George Ovchinnikov|код, обработка данных        |7 **✓**|
- ![](https://avatars1.githubusercontent.com/u/6498865?s=46) Misha Rubnicov  | обработка данных              |6 **✓**|
- ![](https://avatars0.githubusercontent.com/u/4226210?s=46) Sheroz Karimov  | 3D-модели                     |6 **✓**|
- ![](https://avatars0.githubusercontent.com/u/147170?s=46) Kirill Temnov    | интеграция                    |0|
- ![](https://avatars0.githubusercontent.com/u/842476?s=46) Vitaly GB        | координация                   |0|
-                                                                            |                               |
+|                                                                             |                              |ToDo **✓**|
+|---------------------------------------------------------------------------  |:------------------------------|:----:|
+ ![](https://avatars3.githubusercontent.com/u/5991448?s=46) Dmitry Shiukaev   | Лидер проекта\обработка данных|10 **✓**|
+ ![](https://avatars3.githubusercontent.com/u/4639509?s=46) Artem Kvadzba     | обработка данных              |8 **✓**|
+ ![](https://avatars0.githubusercontent.com/u/3833771?s=46) Pavel Shalaginov  | 3D-модели, 3D-печать          |10 **✓**|
+ ![](https://avatars2.githubusercontent.com/u/3838734?s=46) Maxim Loguncov    | 3D-модели                     |7 **✓**|
+ ![](https://avatars1.githubusercontent.com/u/6061182?s=46) George Ovchinnikov|код, обработка данных          |7 **✓**|
+ ![](https://avatars1.githubusercontent.com/u/6498865?s=46) Misha Rubnicov    | обработка данных              |6 **✓**|
+ ![](https://avatars0.githubusercontent.com/u/4226210?s=46) Sheroz Karimov    | 3D-модели                     |6 **✓**|
+ ![](https://avatars0.githubusercontent.com/u/147170?s=46) Kirill Temnov      | интеграция                    |0|
+ ![](https://avatars0.githubusercontent.com/u/842476?s=46) Vitaly GB          | координация                   |0|
+                                                                              |                               |
  ![](http://www.gravatar.com/avatar/f7e166e67e46c6cbccb66a54107f08b1?s=46) Тищенко Надежда Ивановна                                  |Учитель географии              |0|
- ![](https://avatars3.githubusercontent.com/u/6450286?s=46) Nikita Golub    | фото, презентации             |0|
- ![](https://avatars0.githubusercontent.com/u/6568321?s=46) Tanya Petrova   | SocialMedia                   |0|
+ ![](https://avatars3.githubusercontent.com/u/6450286?s=46) Nikita Golub      | фото, презентации             |0|
+ ![](https://avatars0.githubusercontent.com/u/6568321?s=46) Tanya Petrova     | SocialMedia                   |0|
 
 
 ## Использованная литература
@@ -75,17 +75,6 @@
 - Разработка кода
 - Создать мобильное приложение
 
-## Добавить поля
-- Проектная мощность
-- Объем производства
-- Генеральный директор
-- Главный инженер
-- Контакты (тел/факс/веб/twi,fb..)
-- Реквизиты [инн]
-- Владелец
-- Уставный фонд
-- Распределение акций
-- Количество сотрудников
 
 # Сбор полной информации по НПЗ
 
