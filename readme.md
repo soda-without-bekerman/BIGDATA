@@ -32,7 +32,7 @@
 
 |                                                                           |                               |
 |---------------------------------------------------------------------------|:------------------------------|
- ![](https://avatars2.githubusercontent.com/u/5991448?s=46) Dmitry Shiukaev | Лидер проекта\обработка данных|
+ ![](https://avatars3.githubusercontent.com/u/5991448?s=46) Dmitry Shiukaev | Лидер проекта\обработка данных|
  ![](https://avatars3.githubusercontent.com/u/4639509?s=46) Artem Kvadzba   | обработка данных              |
  ![](https://avatars0.githubusercontent.com/u/3833771?s=46) Pavel Shalaginov| 3D-модели, 3D-печать          |
  ![](https://avatars2.githubusercontent.com/u/3838734?s=46) Maxim Loguncov  | 3D-модели                     |
