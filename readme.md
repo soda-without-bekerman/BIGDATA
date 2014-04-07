@@ -1,4 +1,4 @@
-![](https://avatars0.githubusercontent.com/u/6559911?s=28) Refinery [>>>](https://github.com/soda-io/Refinery)
+![](https://avatars0.githubusercontent.com/u/6559911?s=29) [ REFINERY](https://github.com/soda-io/REFINERY)
 ===
 
 ### == ФОН ==
@@ -27,7 +27,7 @@ API принимает запросы от сторонних приложени
 | **▢**  | Бета-релиз                                                 |
 
 
-### == УЧАСТНИКИ ==
+### == СОАВТОРЫ ==
 
 |                                                                             |    РОЛИ                       |ToDo **✓**|
 |---------------------------------------------------------------------------  |:------------------------------|:----:|
