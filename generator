@@ -25,7 +25,7 @@ do
 done
 
 
-
+tail -29 readme.md
 
 echo "# Приложение 1. Карты."
 cat archive/Maps/readme.md | awk '{ gsub("\\]\\(","](archive/Maps"); print }'
@@ -36,4 +36,3 @@ echo "\`\`\`json"
 cat NPZ/NPZ.json/NPZ.json
 echo "\`\`\`"
 
-tail -17 readme.md
