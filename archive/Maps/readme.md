@@ -7,11 +7,11 @@
 
 ### Карта Российской нефтепереработки
 
-	![Карта Российской нефтепереработки](KartaTossiyskoyNeftepererabotri.jpg)
+  ![Карта Российской нефтепереработки](KartaTossiyskoyNeftepererabotri.jpg)
 
 ### Карта экспорта нефти
 
-    ![Карта экспорта нефти](KartaExportaNefti.jpg)
+  ![Карта экспорта нефти](KartaExportaNefti.jpg)
 
 ### Карта невтепроводов
 

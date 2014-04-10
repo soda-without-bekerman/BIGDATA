@@ -1068,11 +1068,11 @@ Information founded [@BoytsovaAnna] (https://twitter.com/BoytsovaAnna)
 
 ### Карта Российской нефтепереработки
 
-	![Карта Российской нефтепереработки](archive/Maps/KartaTossiyskoyNeftepererabotri.jpg)
+  ![Карта Российской нефтепереработки](archive/Maps/KartaTossiyskoyNeftepererabotri.jpg)
 
 ### Карта экспорта нефти
 
-    ![Карта экспорта нефти](archive/Maps/KartaExportaNefti.jpg)
+  ![Карта экспорта нефти](archive/Maps/KartaExportaNefti.jpg)
 
 ### Карта невтепроводов
 
