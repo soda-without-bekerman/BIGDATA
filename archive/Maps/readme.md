@@ -1,8 +1,22 @@
-# Карты
+## Карты
 
- -![Map](Map.jpg)
- -![map](map.png)
- -![Карта Российской нефтепереработки](KartaTossiyskoyNeftepererabotri.jpg)
- -![Карта экспорта нефти](KartaExportaNefti.jpg)
- -![Невтепроводы](KartaNefteprovod.jpg)
- -![Система трубопроводов](SistemaTruboprovodov.gif)
+ 
+### Развитие сети трубопроводов и подключение НПЗ Краснодарского края
+
+  ![map](map.png)
+
+### Карта Российской нефтепереработки
+
+	![Карта Российской нефтепереработки](KartaTossiyskoyNeftepererabotri.jpg)
+
+### Карта экспорта нефти
+
+    ![Карта экспорта нефти](KartaExportaNefti.jpg)
+
+### Карта невтепроводов
+
+ ![Невтепроводы](KartaNefteprovod.jpg)
+
+### Карта системы трубопроводов
+ 
+![Система трубопроводов](SistemaTruboprovodov.gif)

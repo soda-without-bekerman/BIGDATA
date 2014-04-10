@@ -28,7 +28,7 @@ done
 tail -29 readme.md
 
 echo "# Приложение 1. Карты."
-cat archive/Maps/readme.md | awk '{ gsub("\\]\\(","](archive/Maps"); print }'
+cat archive/Maps/readme.md | awk '{ gsub("\\]\\(","](archive/Maps/"); print }'
 
 echo "# Приложение 2. Датасет по НПЗ России."
 
