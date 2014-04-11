@@ -19,20 +19,33 @@ API принимает запросы от сторонних приложени
 `AWK` интерпретируемый скриптовый C-подобный язык построчного разбора и обработки входного потока (например, текстового файла) по заданным шаблонам. Работает в bash скриптах.
 
 
+-### == TIMELINE ==
+ -
+ -|   дата    | цель   |  список дел                           |
+ -|:---------:|:------:|:--------------------------------------|
+ -| 01.02     | **✓**  | Перевести данные НПЗ в `JSON`         |
+ -| 10.03     | **✓**  | 3D модели НПЗ                         |
+ -| 11.04     | **▢**  | Страница проекта `refinery.github.io` |
+ -| 14.04     | **▢**  | 3D макет - прототип НПЗ               |
+ -| 20.04     | **▢**  | Разработка приложения                 |
+ -| 26.04     | **▢**  |  Demo day                             | 
+ -| 29.04     | **▢**  | Бета-релиз                            |
+ 
+
 ### == СОАВТОРЫ ==
 
-|                                                                             |    РОЛИ                       |ToDo **✓**|
-|---------------------------------------------------------------------------  |:------------------------------|:----:|
- ![](https://avatars3.githubusercontent.com/u/5991448?s=36) Dmitry Shiukaev   | Лидер проекта\обработка данных|10 **✓**|
- ![](https://avatars3.githubusercontent.com/u/4639509?s=36) Artem Kvadzba     | обработка данных              |8 **✓**|
- ![](https://avatars0.githubusercontent.com/u/3833771?s=36) Pavel Shalaginov  | 3D-модели, 3D-печать          |10 **✓**|
- ![](https://avatars2.githubusercontent.com/u/3838734?s=36) Maxim Loguncov    | 3D-модели                     |7 **✓**|
- ![](https://avatars1.githubusercontent.com/u/6061182?s=36) George Ovchinnikov|код, обработка данных          |7 **✓**|
- ![](https://avatars1.githubusercontent.com/u/6498865?s=36) Misha Rubnicov    | обработка данных              |6 **✓**|
- ![](https://avatars0.githubusercontent.com/u/4226210?s=36) Sheroz Karimov    | 3D-модели                     |6 **✓**|
+|                                                                             |    РОЛИ                       |
+|---------------------------------------------------------------------------  |:------------------------------|
+ ![](https://avatars3.githubusercontent.com/u/5991448?s=36) Dmitry Shiukaev   | Лидер проекта\обработка данных|
+ ![](https://avatars3.githubusercontent.com/u/4639509?s=36) Artem Kvadzba     | обработка данных              |
+ ![](https://avatars0.githubusercontent.com/u/3833771?s=36) Pavel Shalaginov  | 3D-модели, 3D-печать          |
+ ![](https://avatars2.githubusercontent.com/u/3838734?s=36) Maxim Loguncov    | 3D-модели                     |
+ ![](https://avatars1.githubusercontent.com/u/6061182?s=36) George Ovchinnikov|код, обработка данных          |
+ ![](https://avatars1.githubusercontent.com/u/6498865?s=36) Misha Rubnicov    | обработка данных              |
+ ![](https://avatars0.githubusercontent.com/u/4226210?s=36) Sheroz Karimov    | 3D-модели                     |
                                                                               |                               |
- ![](https://avatars0.githubusercontent.com/u/147170?s=36) Kirill Temnov      | интеграция                    |0|
- ![](https://avatars0.githubusercontent.com/u/842476?s=36) Vitaly GB          | координация                   |0|
+ ![](https://avatars0.githubusercontent.com/u/147170?s=36) Kirill Temnov      | интеграция                    |
+ ![](https://avatars0.githubusercontent.com/u/842476?s=36) Vitaly GB          | координация                   |
                                                                               |                               |
 
 
