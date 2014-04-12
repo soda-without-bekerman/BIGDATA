@@ -1058,6 +1058,7 @@ Information founded [@BoytsovaAnna] (https://twitter.com/BoytsovaAnna)
  1. [Проверка формата JSON](http://jsonformatter.curiousconcept.com/)
  1. [HTMLBook.ru](http://htmlbook.ru/html5)
  1. [CSS. Википедия](http://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D0%BA%D0%B0%D0%B4%D0%BD%D1%8B%D0%B5_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B_%D1%81%D1%82%D0%B8%D0%BB%D0%B5%D0%B9)
+
 # Приложение 1. Карты.
 ## Карты
 
