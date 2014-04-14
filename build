@@ -1,5 +1,0 @@
-#!/bin/bash
-
-cat source/index_header.html > index.html
-marked readme.md >> index.html
-cat source/index_footer.html >> index.html
