@@ -53,6 +53,7 @@ API принимает запросы от сторонних приложени
 | ![](https://avatars0.githubusercontent.com/u/147170?s=36) Kirill Temnov      | интеграция                    |
 | ![](https://avatars0.githubusercontent.com/u/842476?s=36) Vitaly GB          | координация                   |
 |                                                                              |                               |
+|![](http://www.gravatar.com/avatar/f7e166e67e46c6cbccb66a54107f08b1?s=36)     |Надежда Ивановна Тищенко       |         |             |Учитель географии              |0|
 
 
 
