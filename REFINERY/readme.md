@@ -6,7 +6,6 @@
  - Трудно находить данные в открытом доступе.
 
  
-
 ### == РЕШЕНИЕ ==
 Создать датасеты с открытыми данными НПЗ России, API и мобильное приложение.
 
@@ -33,11 +32,19 @@
 | 10.03     | **✓**  | 3D модели НПЗ                         |
 | 14.04     | **✓**  | Страница проекта `refinery.github.io` |
 | 18.04     | **▢**  | Карта проекта                         |
-| 20.04     | **▢**  | Разработка приложения                 |
+| 20.04     | **▢**  | Разработка мобильного приложения      |
+| 20.04     | **▢**  | 3D печать моделей НПЗ                 |
 | 26.04     | **▢**  | Demo day!                             | 
 | 29.04     | **▢**  | Альфа-релиз                           |
 | 29.04     | **▢**  | Ждем с нетерпением                    |
 
+### = РЕЗУЛЬТАТ =
+
+ - Научились работать с открытыми источниками.
+ - Создали 32 датасета со всеми НПЗ России. 
+ - Визуализировали данные датасетов на интерактивной карте.
+ - Идет альфа-тестирование мобильного приложения + Arduino.
+ 
 
 ### = Пример кода из датасета =
 ```
@@ -82,34 +89,24 @@ $ wget  http://soda-io.github.io/BIGDATA/NPZ.json
 bash generator > to-word.md
 ```
 
-
-### = РЕЗУЛЬТАТ =
-
- - Научились работать с открытыми источниками.
- - Создали 32 датасета со всеми НПЗ России. 
- - Визуализировали данные датасетов на интерактивной карте.
- - Идет альфа-тестирование мобильного приложения + Arduino.
-
-
 ### == СОАВТОРЫ ==
 
-|                                                                                                                |    РОЛИ                       |
-|--------------------------------------------------------------------------------------------------------------- |:------------------------------|
-| ![](https://avatars3.githubusercontent.com/u/5991448?s=36) Dmitry Shiukaev                                     | Лидер проекта\обработка данных|
-| ![](https://avatars3.githubusercontent.com/u/4639509?s=36) Artem Kvadzba                                       | обработка данных              |
-| ![](https://avatars0.githubusercontent.com/u/3833771?s=36) Pavel Shalaginov                                    | 3D-модели, 3D-печать          |
-| ![](https://avatars2.githubusercontent.com/u/3838734?s=36) Maxim Loguncov                                      | 3D-модели                     |
-| ![](https://avatars1.githubusercontent.com/u/6061182?s=36) George Ovchinnikov                                  | Код, обработка данны          |
-| ![](https://avatars1.githubusercontent.com/u/6498865?s=36) Misha Rubnicov                                      | Обработка данных              |
-| ![](https://avatars0.githubusercontent.com/u/4226210?s=36) Sheroz Karimov                                      | 3D-модели                     |
-|                                                                                                                |                               |
-| ![](https://avatars0.githubusercontent.com/u/147170?s=36) Kirill Temnov                                        | Интеграция                    |
-| ![](https://avatars0.githubusercontent.com/u/842476?s=36) Vitaly GB                                            | Координация                   |
-|                                                                                                                |                               |
-|![](http://croper.ru/images/20140415V0FJ0NdyI7EdseBI_OiezW_large.jpeg) Boytsova Anna                            | Поиск информации              |
-|                                                                                                                |                               |
-|![](http://www.gravatar.com/avatar/f7e166e67e46c6cbccb66a54107f08b1?s=36) Тищенко надежда ивановна              | Учитель географии             |
+## {У}
 
+|    |    |    |    |    |    |    |    |
+|----|----|----|----|----|----|----|----|
+|![Anna Boytsova](http://croper.ru/images/20140415V0FJ0NdyI7EdseBI_OiezW_large.jpeg) |![Dmitry Shiukaev](https://avatars3.githubusercontent.com/u/5991448?s=74)|![MaximLoguncov](https://avatars2.githubusercontent.com/u/3838734?s=74)|![PavelShalaginov](https://avatars0.githubusercontent.com/u/3833771?s=74)|![SherozKarimov](https://avatars0.githubusercontent.com/u/4226210?s=74) |![ArtemKvadzba](https://avatars3.githubusercontent.com/u/4639509?s=74) | ![Misha Rubnicov](https://avatars1.githubusercontent.com/u/6498865?s=74) | ![George Ovchinnikov](https://avatars1.githubusercontent.com/u/6061182?s=74) |    
+| [Anna B](https://twitter.com/BoytsovaAnna) | [Dmitry S](https://github.com/DmitryShiukaev) | [Maxim L](https://github.com/MaximLoguncov) | [Pavel S](https://github.com/PavelShalaginov)| [Sheroz K](https://github.com/SherozKarimov) | [Artem K](https://github.com/ArtemKvadzba) | [Misha R](https://github.com/MishaRubnikov) | [George O](https://github.com/GeorgeOvchinnikov) |
+
+
+## {M}  
+
+|    |    | 
+|----|----|
+|![Kirill Temnov](https://avatars1.githubusercontent.com/u/147170?s=74) | ![Vitaly GB](https://avatars0.githubusercontent.com/u/842476?s=74) |
+|[Kirill T](https://github.com/KirillTemnov) |[Vitaly GB](https://github.com/VitalyGB)
+
+=====================
 
 ### == ИСТОЧНИКИ ==
 
@@ -131,7 +128,7 @@ bash generator > to-word.md
 
 ### @sodaup
 >
-> Мы продолжим исследования и работу с данными! Обновлять актуальную информацию в режиме реального времени!
+> Мы продолжим исследования и работу с данными. Обновлять актуальную информацию в режиме реального времени!
 
 > ![](https://avatars1.githubusercontent.com/u/6061182?s=16) [ George Ovchinnikov](https://github.com/GeorgeOvchinnikov)
 >
