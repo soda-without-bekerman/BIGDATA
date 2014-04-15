@@ -86,22 +86,22 @@ bash generator > to-word.md
 
 ### == СОАВТОРЫ ==
 
-|                                                                                                     |    РОЛИ                       |
-|---------------------------------------------------------------------------------------------------- |:------------------------------|
-| ![](https://avatars3.githubusercontent.com/u/5991448?s=36) Dmitry Shiukaev                          | Лидер проекта\обработка данных|
-| ![](https://avatars3.githubusercontent.com/u/4639509?s=36) Artem Kvadzba                            | обработка данных              |
-| ![](https://avatars0.githubusercontent.com/u/3833771?s=36) Pavel Shalaginov                         | 3D-модели, 3D-печать          |
-| ![](https://avatars2.githubusercontent.com/u/3838734?s=36) Maxim Loguncov                           | 3D-модели                     |
-| ![](https://avatars1.githubusercontent.com/u/6061182?s=36) George Ovchinnikov                       | Код, обработка данны          |
-| ![](https://avatars1.githubusercontent.com/u/6498865?s=36) Misha Rubnicov                           | Обработка данных              |
-| ![](https://avatars0.githubusercontent.com/u/4226210?s=36) Sheroz Karimov                           | 3D-модели                     |
-|                                                                                                     |                               |
-| ![](https://avatars0.githubusercontent.com/u/147170?s=36) Kirill Temnov                             | Интеграция                    |
-| ![](https://avatars0.githubusercontent.com/u/842476?s=36) Vitaly GB                                 | Координация                   |
-|                                                                                                     |                               |
-| ![](https://pbs.twimg.com/profile_images/426347392372600832/MZISK8Da.jpeg) Boytsova Anna            | Поиск информации              |
-|                                                                                                     |                               |
-|![](http://www.gravatar.com/avatar/f7e166e67e46c6cbccb66a54107f08b1?s=36) Тищенко надежда ивановна   | Учитель географии             |
+|                                                                                                                |    РОЛИ                       |
+|--------------------------------------------------------------------------------------------------------------- |:------------------------------|
+| ![](https://avatars3.githubusercontent.com/u/5991448?s=36) Dmitry Shiukaev                                     | Лидер проекта\обработка данных|
+| ![](https://avatars3.githubusercontent.com/u/4639509?s=36) Artem Kvadzba                                       | обработка данных              |
+| ![](https://avatars0.githubusercontent.com/u/3833771?s=36) Pavel Shalaginov                                    | 3D-модели, 3D-печать          |
+| ![](https://avatars2.githubusercontent.com/u/3838734?s=36) Maxim Loguncov                                      | 3D-модели                     |
+| ![](https://avatars1.githubusercontent.com/u/6061182?s=36) George Ovchinnikov                                  | Код, обработка данны          |
+| ![](https://avatars1.githubusercontent.com/u/6498865?s=36) Misha Rubnicov                                      | Обработка данных              |
+| ![](https://avatars0.githubusercontent.com/u/4226210?s=36) Sheroz Karimov                                      | 3D-модели                     |
+|                                                                                                                |                               |
+| ![](https://avatars0.githubusercontent.com/u/147170?s=36) Kirill Temnov                                        | Интеграция                    |
+| ![](https://avatars0.githubusercontent.com/u/842476?s=36) Vitaly GB                                            | Координация                   |
+|                                                                                                                |                               |
+|![](http://ru.photofacefun.com/s1/data/ad/0675f0ed567f23b77fda2878f20c1a82/photo_aDb3crcJf7goY.jpg)Boytsova Anna| Поиск информации              |
+|                                                                                                                |                               |
+|![](http://www.gravatar.com/avatar/f7e166e67e46c6cbccb66a54107f08b1?s=36) Тищенко надежда ивановна              | Учитель географии             |
 
 
 ### == ИСТОЧНИКИ ==
