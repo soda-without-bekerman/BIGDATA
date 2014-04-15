@@ -99,7 +99,7 @@ bash generator > to-word.md
 | ![](https://avatars0.githubusercontent.com/u/147170?s=36) Kirill Temnov                                        | Интеграция                    |
 | ![](https://avatars0.githubusercontent.com/u/842476?s=36) Vitaly GB                                            | Координация                   |
 |                                                                                                                |                               |
-|![](http://ru.photofacefun.com/s1/data/ad/0675f0ed567f23b77fda2878f20c1a82/photo_aDb3crcJf7goY.jpg)Boytsova Anna| Поиск информации              |
+|![](http://croper.ru/images/20140415V0FJ0NdyI7EdseBI_iSYFF_large.jpeg) Boytsova Anna                            | Поиск информации              |
 |                                                                                                                |                               |
 |![](http://www.gravatar.com/avatar/f7e166e67e46c6cbccb66a54107f08b1?s=36) Тищенко надежда ивановна              | Учитель географии             |
 
