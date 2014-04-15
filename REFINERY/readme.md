@@ -69,6 +69,13 @@
 ```
 
 
+### Ссылка на скачивание
+
+```
+$ wget  http://soda-io.github.io/BIGDATA/NPZ.json
+```
+
+
 ### Запуск генератора для ОТЧЕТА
 
 ```
@@ -121,11 +128,6 @@ bash generator > to-word.md
   
 ---
 
-### Ссылка на скачивание
-
-```
-$ wget  http://soda-io.github.io/BIGDATA/NPZ.json
-```
 
 ### @sodaup
 >
