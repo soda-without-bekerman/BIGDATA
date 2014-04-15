@@ -125,6 +125,11 @@ bash generator > to-word.md
   
 ---
 
+### == АВТОРСКИЕ ПРАВА ==
+
+Copyright (c) 2014 SODA LABS. The MIT License (MIT).
+
+---
 
 ### @sodaup
 
