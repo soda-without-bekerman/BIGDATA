@@ -33,6 +33,7 @@
 | 14.04     | **✓**  | Страница проекта `GitHub`             |
 | 18.04     | **▢**  | Карта проекта                         |
 | 22.04     | **▢**  | Разработка мобильного приложения      |
+| 25.04     | **▢**  | Печать макета НПЗ                         |
 | 26.04     | **▢**  | Demo day!                             | 
 | 29.04     | **▢**  | Альфа-релиз                           |
 | 29.04     | **▢**  | Ждем с нетерпением                    |
@@ -94,8 +95,12 @@ bash generator > to-word.md
 
 |    |    |    |    |    |    |    |    |
 |----|----|----|----|----|----|----|----|
-|![Anna Boytsova](http://croper.ru/images/20140415V0FJ0NdyI7EdseBI_OiezW_large.jpeg) |![Dmitry Shiukaev](https://avatars3.githubusercontent.com/u/5991448?s=74)|![MaximLoguncov](https://avatars2.githubusercontent.com/u/3838734?s=74)|![PavelShalaginov](https://avatars0.githubusercontent.com/u/3833771?s=74)|![SherozKarimov](https://avatars0.githubusercontent.com/u/4226210?s=74) |![ArtemKvadzba](https://avatars3.githubusercontent.com/u/4639509?s=74) | ![Misha Rubnicov](https://avatars1.githubusercontent.com/u/6498865?s=74) | ![George Ovchinnikov](https://avatars1.githubusercontent.com/u/6061182?s=74) |    
+|![Anna Boytsova](http://soda-io.github.io/BIGDATA/images/anna.jpg) |![Dmitry Shiukaev](https://avatars3.githubusercontent.com/u/5991448?s=74)|![MaximLoguncov](https://avatars2.githubusercontent.com/u/3838734?s=74)|![PavelShalaginov](https://avatars0.githubusercontent.com/u/3833771?s=74)|![SherozKarimov](https://avatars0.githubusercontent.com/u/4226210?s=74) |![ArtemKvadzba](https://avatars3.githubusercontent.com/u/4639509?s=74) | ![Misha Rubnicov](https://avatars1.githubusercontent.com/u/6498865?s=74) | ![George Ovchinnikov](https://avatars1.githubusercontent.com/u/6061182?s=74) |    
 | [Anna B](https://twitter.com/BoytsovaAnna) | [Dmitry S](https://github.com/DmitryShiukaev) | [Maxim L](https://github.com/MaximLoguncov) | [Pavel S](https://github.com/PavelShalaginov)| [Sheroz K](https://github.com/SherozKarimov) | [Artem K](https://github.com/ArtemKvadzba) | [Misha R](https://github.com/MishaRubnikov) | [George O](https://github.com/GeorgeOvchinnikov) |
+
+
+
+
 
 
 ## {M}  
