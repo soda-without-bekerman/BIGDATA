@@ -124,7 +124,7 @@ bash generator > to-word.md
 ### Ссылка на скачивание
 
 ```
-http://soda-io.github.io/BIGDATA/NPZ.json
+$ wget  http://soda-io.github.io/BIGDATA/NPZ.json
 ```
 
 ### @sodaup
