@@ -106,7 +106,7 @@ bash generator > to-word.md
 |![Kirill Temnov](https://avatars1.githubusercontent.com/u/147170?s=74) | ![Vitaly GB](https://avatars0.githubusercontent.com/u/842476?s=74) |
 |[Kirill T](https://github.com/KirillTemnov) |[Vitaly GB](https://github.com/VitalyGB)
 
-=====================
+---
 
 ### == ИСТОЧНИКИ ==
 
@@ -117,18 +117,14 @@ bash generator > to-word.md
  1. [Крупнейшие нефтеперерабатывающие заводы России](http://neftegas.info/engine/info/krupnjejshije-njeftjepjerjerabatyvajushhije-zavody-rossii)
  1. [Ведомости. "Своевременное предложение"](http://tbu.com.ua/digest/svoevremennoe_predlojenie.html)
  1. [Макет: Принципиальная схема добычи, транспортировки и переработки углеводородных ресурсов](http://www.maket-russia.ru/portfolio/portfolio-uchebnye-makety-i-modeli/maket-printsipialnaya-skhema-dobychi-transportirovki-i-pererabotki-uglevodorodnykh-resursov/)
- 1. [Индекс Сложности Нельсона](http://neftegaz.ru/tech_library/view/4679)
  1. [Первичная переработка нефти. Установки ЭЛОУ - АВТ](http://e-him.ru/?page=dynamic&section=61&article=1165) 
+ 1. [Индекс Сложности Нельсона](http://neftegaz.ru/tech_library/view/4679)
  1. [JSON](http://ru.wikipedia.org/wiki/JSON) 
  1. [Проверка формата JSON](http://jsonformatter.curiousconcept.com/)
  1. [HTMLBook.ru](http://htmlbook.ru/html5)
-  
----
-
-### == АВТОРСКИЕ ПРАВА ==
-
-Copyright (c) 2014 SODA LABS. The MIT License (MIT).
-
+ 1. [ОТКРЫТЫЕ ДАННЫЕ РОССИИ](http://data.gov.ru)
+ 2. [Открытое правительство](http://большоеправительство.рф)
+ 
 ---
 
 ### @sodaup
@@ -151,4 +147,8 @@ Copyright (c) 2014 SODA LABS. The MIT License (MIT).
 > ![](https://avatars0.githubusercontent.com/u/4226210?s=16)[ SherozKarimov](https://github.com/SherozKarimov) 
 
 ---
+
+### == АВТОРСКИЕ ПРАВА ==
+
+Copyright (c) 2014 SODA LABS. The MIT License (MIT).
 
