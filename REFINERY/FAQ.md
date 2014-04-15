@@ -22,4 +22,4 @@
  
 - Какие языки програмирования вы изучаете/знаете?
 
- Лично я знаю пока Markdown и JSON. А сейчас нас обучают coffeeskript.
+ Markdown, JSON, CoffeeScript, bash.
