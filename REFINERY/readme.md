@@ -127,26 +127,23 @@ bash generator > to-word.md
 
 
 ### @sodaup
->
+
 > Мы продолжим исследования и работу с данными. Обновлять актуальную информацию в режиме реального времени!
 
 > ![](https://avatars1.githubusercontent.com/u/6061182?s=16) [ George Ovchinnikov](https://github.com/GeorgeOvchinnikov)
->
+
 
 ---
 
->
 > Мы надеемся, что в дальнейшем заинтересованные люди будут использовать эту информацию для своих проектов и не тратить огромное кол-во времени, усилий и средств.
 
 > ![](https://avatars1.githubusercontent.com/u/6498865?s=16) [ Misha Rubnicov](https://github.com/MishaRubnicov)
->
 
 ---
 
->
 > Считаю, что мы добились необходимых результатов, которые планировали получить от этого проекта. 
 
 > ![](https://avatars0.githubusercontent.com/u/4226210?s=16)[ SherozKarimov](https://github.com/SherozKarimov) 
->
+
 ---
 
