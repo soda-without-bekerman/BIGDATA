@@ -3,6 +3,6 @@
 cat source/index_header.html > index.html
 marked readme.md >> index.html
 cat source/index_footer.html >> index.html
-cp index.html ../../gh-pages/
-cp ./NPZ/NPZ.json/NPZ.json ../../gh-pages/
+cp index.html ../../gh-pages/REFINERY
+cp ./NPZ/NPZ.json/NPZ.json ../../gh-pages/REFINERY/refinery.json
 
