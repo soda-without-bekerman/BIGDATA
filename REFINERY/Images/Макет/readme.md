@@ -1,6 +1,6 @@
 ## Макет НПЗ
  
- -![Maket Npz](Maket_Npz.jpg)
+ -![](Maket_Npz.jpg)
  -![Maket second form](Maket_second_form.jpg)
  -![ammonia](ammonia.jpg)
  -![barrel](barrel.jpg)
