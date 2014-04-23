@@ -1,0 +1,504 @@
+{
+  "part01": {
+    "record": [
+      {
+        "count_obr": "130",
+        "count_student": "14791",
+        "avg_100": "122",
+        "en_namew": "Республика Адыгея"
+      },
+      {
+        "count_obr": "1630",
+        "count_student": "180231",
+        "avg_100": "108",
+        "en_namew": "Республика Башкортостан"
+      },
+      {
+        "count_obr": "413",
+        "count_student": "42654",
+        "avg_100": "116",
+        "en_namew": "Республика Бурятия"
+      },
+      {
+        "count_obr": "40",
+        "count_student": "9032",
+        "avg_100": "110",
+        "en_namew": "Республика Алтай"
+      },
+      {
+        "count_obr": "665",
+        "count_student": "69955",
+        "avg_100": "125",
+        "en_namew": "Республика Дагестан"
+      },
+      {
+        "count_obr": "26",
+        "count_student": "3812",
+        "avg_100": "137",
+        "en_namew": "Республика Ингушетия"
+      },
+      {
+        "count_obr": "42",
+        "count_student": "35224",
+        "avg_100": "113",
+        "en_namew": "Кабардино-Балкарская республика"
+      },
+      {
+        "count_obr": "101",
+        "count_student": "11632",
+        "avg_100": "112",
+        "en_namew": "Республика Калмыкия"
+      },
+      {
+        "count_obr": "113",
+        "count_student": "14999",
+        "avg_100": "118",
+        "en_namew": "Карачаево-Черкесская республика"
+      },
+      {
+        "count_obr": "209",
+        "count_student": "31845",
+        "avg_100": "97",
+        "en_namew": "Республика Карелия"
+      },
+      {
+        "count_obr": "520",
+        "count_student": "53203",
+        "avg_100": "96",
+        "en_namew": "Республика Коми"
+      },
+      {
+        "count_obr": "249",
+        "count_student": "31837",
+        "avg_100": "103",
+        "en_namew": "Республика Марий Эл"
+      },
+      {
+        "count_obr": "234",
+        "count_student": "28587",
+        "avg_100": "106",
+        "en_namew": "Республика Мордовия"
+      },
+      {
+        "count_obr": "709",
+        "count_student": "53929",
+        "avg_100": "107",
+        "en_namew": "Республика Саха (Якутия)"
+      },
+      {
+        "count_obr": "211",
+        "count_student": "27340",
+        "avg_100": "107",
+        "en_namew": "Республика Северная Осетия — Алания"
+      },
+      {
+        "count_obr": "1891",
+        "count_student": "180089",
+        "avg_100": "108",
+        "en_namew": "Республика Татарстан"
+      },
+      {
+        "count_obr": "219",
+        "count_student": "15837",
+        "avg_100": "107",
+        "en_namew": "Республика Тыва"
+      },
+      {
+        "count_obr": "754",
+        "count_student": "85503",
+        "avg_100": "106",
+        "en_namew": "Удмуртская республика"
+      },
+      {
+        "count_obr": "167",
+        "count_student": "24628",
+        "avg_100": "103",
+        "en_namew": "Республика Хакасия"
+      },
+      {
+        "count_obr": "171",
+        "count_student": "23824",
+        "avg_100": "122",
+        "en_namew": "Чеченская республика"
+      },
+      {
+        "count_obr": "435",
+        "count_student": "57479",
+        "avg_100": "93",
+        "en_namew": "Чувашская республика"
+      },
+      {
+        "count_obr": "860",
+        "count_student": "90404",
+        "avg_100": "105",
+        "en_namew": "Алтайский край"
+      },
+      {
+        "count_obr": "1487",
+        "count_student": "202173",
+        "avg_100": "122",
+        "en_namew": "Краснодарский край"
+      },
+      {
+        "count_obr": "982",
+        "count_student": "111578",
+        "avg_100": "103",
+        "en_namew": "Красноярский край"
+      },
+      {
+        "count_obr": "537",
+        "count_student": "74493",
+        "avg_100": "102",
+        "en_namew": "Приморский край"
+      },
+      {
+        "count_obr": "811",
+        "count_student": "99104",
+        "avg_100": "106",
+        "en_namew": "Ставропольский край"
+      },
+      {
+        "count_obr": "444",
+        "count_student": "58396",
+        "avg_100": "102",
+        "en_namew": "Хабаровский край"
+      },
+      {
+        "count_obr": "316",
+        "count_student": "37208",
+        "avg_100": "104",
+        "en_namew": "Амурская область"
+      },
+      {
+        "count_obr": "250",
+        "count_student": "60604",
+        "avg_100": "102",
+        "en_namew": "Архангельская область"
+      },
+      {
+        "count_obr": "204",
+        "count_student": "41937",
+        "avg_100": "107",
+        "en_namew": "Астраханская область"
+      },
+      {
+        "count_obr": "530",
+        "count_student": "57866",
+        "avg_100": "103",
+        "en_namew": "Белгородская область"
+      },
+      {
+        "count_obr": "393",
+        "count_student": "48314",
+        "avg_100": "113",
+        "en_namew": "Брянская область"
+      },
+      {
+        "count_obr": "561",
+        "count_student": "63645",
+        "avg_100": "101",
+        "en_namew": "Владимирская область"
+      },
+      {
+        "count_obr": "770",
+        "count_student": "84451",
+        "avg_100": "100",
+        "en_namew": "Волгоградская область"
+      },
+      {
+        "count_obr": "585",
+        "count_student": "65067",
+        "avg_100": "103",
+        "en_namew": "Вологодская область"
+      },
+      {
+        "count_obr": "525",
+        "count_student": "66129",
+        "avg_100": "112",
+        "en_namew": "Воронежская область"
+      },
+      {
+        "count_obr": "381",
+        "count_student": "44084",
+        "avg_100": "99",
+        "en_namew": "Ивановская область"
+      },
+      {
+        "count_obr": "945",
+        "count_student": "108956",
+        "avg_100": "112",
+        "en_namew": "Иркутская область"
+      },
+      {
+        "count_obr": "281",
+        "count_student": "33165",
+        "avg_100": "106",
+        "en_namew": "Калининградская область"
+      },
+      {
+        "count_obr": "267",
+        "count_student": "37133",
+        "avg_100": "107",
+        "en_namew": "Калужская область"
+      },
+      {
+        "count_obr": "129",
+        "count_student": "16056",
+        "avg_100": "101",
+        "en_namew": "Камчатский край"
+      },
+      {
+        "count_obr": "987",
+        "count_student": "116806",
+        "avg_100": "110",
+        "en_namew": "Кемеровская область"
+      },
+      {
+        "count_obr": "484",
+        "count_student": "59518",
+        "avg_100": "102",
+        "en_namew": "Кировская область"
+      },
+      {
+        "count_obr": "286",
+        "count_student": "32265",
+        "avg_100": "110",
+        "en_namew": "Костромская область"
+      },
+      {
+        "count_obr": "404",
+        "count_student": "37859",
+        "avg_100": "96",
+        "en_namew": "Курганская область"
+      },
+      {
+        "count_obr": "235",
+        "count_student": "31517",
+        "avg_100": "112",
+        "en_namew": "Курская область"
+      },
+      {
+        "count_obr": "430",
+        "count_student": "60348",
+        "avg_100": "92",
+        "en_namew": "Ленинградская область"
+      },
+      {
+        "count_obr": "353",
+        "count_student": "41222",
+        "avg_100": "120",
+        "en_namew": "Липецкая область"
+      },
+      {
+        "count_obr": "59",
+        "count_student": "8227",
+        "avg_100": "94",
+        "en_namew": "Магаданская область"
+      },
+      {
+        "count_obr": "1984",
+        "count_student": "268625",
+        "avg_100": "102",
+        "en_namew": "Московская область"
+      },
+      {
+        "count_obr": "310",
+        "count_student": "41694",
+        "avg_100": "100",
+        "en_namew": "Мурманская область"
+      },
+      {
+        "count_obr": "1374",
+        "count_student": "140466",
+        "avg_100": "102",
+        "en_namew": "Нижегородская область"
+      },
+      {
+        "count_obr": "268",
+        "count_student": "32854",
+        "avg_100": "102",
+        "en_namew": "Новгородская область"
+      },
+      {
+        "count_obr": "714",
+        "count_student": "100801",
+        "avg_100": "115",
+        "en_namew": "Новосибирская область"
+      },
+      {
+        "count_obr": "615",
+        "count_student": "76000",
+        "avg_100": "117",
+        "en_namew": "Омская область"
+      },
+      {
+        "count_obr": "788",
+        "count_student": "86210",
+        "avg_100": "102",
+        "en_namew": "Оренбургская область"
+      },
+      {
+        "count_obr": "198",
+        "count_student": "28552",
+        "avg_100": "102",
+        "en_namew": "Орловская область"
+      },
+      {
+        "count_obr": "311",
+        "count_student": "46150",
+        "avg_100": "102",
+        "en_namew": "Пензенская область"
+      },
+      {
+        "count_obr": "803",
+        "count_student": "124153",
+        "avg_100": "109",
+        "en_namew": "Пермский край"
+      },
+      {
+        "count_obr": "183",
+        "count_student": "25014",
+        "avg_100": "104",
+        "en_namew": "Псковская область"
+      },
+      {
+        "count_obr": "1271",
+        "count_student": "135872",
+        "avg_100": "106",
+        "en_namew": "Ростовская область"
+      },
+      {
+        "count_obr": "405",
+        "count_student": "38208",
+        "avg_100": "110",
+        "en_namew": "Рязанская область"
+      },
+      {
+        "count_obr": "629",
+        "count_student": "121524",
+        "avg_100": "115",
+        "en_namew": "Самарская область"
+      },
+      {
+        "count_obr": "1025",
+        "count_student": "83244",
+        "avg_100": "94",
+        "en_namew": "Саратовская область"
+      },
+      {
+        "count_obr": "152",
+        "count_student": "22591",
+        "avg_100": "113",
+        "en_namew": "Сахалинская область"
+      },
+      {
+        "count_obr": "1457",
+        "count_student": "192389",
+        "avg_100": "101",
+        "en_namew": "Свердловская область"
+      },
+      {
+        "count_obr": "288",
+        "count_student": "34359",
+        "avg_100": "102",
+        "en_namew": "Смоленская область"
+      },
+      {
+        "count_obr": "240",
+        "count_student": "30365",
+        "avg_100": "103",
+        "en_namew": "Тамбовская область"
+      },
+      {
+        "count_obr": "495",
+        "count_student": "53843",
+        "avg_100": "94",
+        "en_namew": "Тверская область"
+      },
+      {
+        "count_obr": "235",
+        "count_student": "45093",
+        "avg_100": "106",
+        "en_namew": "Томская область"
+      },
+      {
+        "count_obr": "520",
+        "count_student": "47717",
+        "avg_100": "91",
+        "en_namew": "Тульская область"
+      },
+      {
+        "count_obr": "297",
+        "count_student": "78077",
+        "avg_100": "126",
+        "en_namew": "Тюменская область"
+      },
+      {
+        "count_obr": "382",
+        "count_student": "44161",
+        "avg_100": "108",
+        "en_namew": "Ульяновская область"
+      },
+      {
+        "count_obr": "1528",
+        "count_student": "193538",
+        "avg_100": "117",
+        "en_namew": "Челябинская область"
+      },
+      {
+        "count_obr": "475",
+        "count_student": "49632",
+        "avg_100": "115",
+        "en_namew": "Забайкальский край"
+      },
+      {
+        "count_obr": "476",
+        "count_student": "58583",
+        "avg_100": "105",
+        "en_namew": "Ярославская область"
+      },
+      {
+        "count_obr": "2210",
+        "count_student": "364808",
+        "avg_100": "103",
+        "en_namew": "Москва"
+      },
+      {
+        "count_obr": "1083",
+        "count_student": "188967",
+        "avg_100": "109",
+        "en_namew": "Санкт-Петербург"
+      },
+      {
+        "count_obr": "71",
+        "count_student": "8352",
+        "avg_100": "105",
+        "en_namew": "Еврейская автономная область"
+      },
+      {
+        "count_obr": "40",
+        "count_student": "2974",
+        "avg_100": "89",
+        "en_namew": "Ненецкий автономный округ"
+      },
+      {
+        "count_obr": "414",
+        "count_student": "76685",
+        "avg_100": "111",
+        "en_namew": "Ханты-Мансийский автономный округ - Югра"
+      },
+      {
+        "count_obr": "20",
+        "count_student": "3770",
+        "avg_100": "87",
+        "en_namew": "Чукотский автономный округ"
+      },
+      {
+        "count_obr": "198",
+        "count_student": "30884",
+        "avg_100": "110",
+        "en_namew": "Ямало-Ненецкий автономный округ"
+      }
+    ]
+  }
+}

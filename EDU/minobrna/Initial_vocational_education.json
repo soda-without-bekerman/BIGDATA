@@ -1,0 +1,587 @@
+{
+  "part02": {
+    "record": [
+      {
+        "region": "Республика Адыгея",
+        "count_obr": "152",
+        "count_student": "43710",
+        "count_teacher": "3696",
+        "ratio": "1.183000000000000e+001"
+      },
+      {
+        "region": "Республика Башкортостан",
+        "count_obr": "1667",
+        "count_student": "433648",
+        "count_teacher": "41081",
+        "ratio": "1.056000000000000e+001"
+      },
+      {
+        "region": "Республика Бурятия",
+        "count_obr": "487",
+        "count_student": "116577",
+        "count_teacher": "8489",
+        "ratio": "1.373000000000000e+001"
+      },
+      {
+        "region": "Республика Алтай",
+        "count_obr": "153",
+        "count_student": "29621",
+        "count_teacher": "3257",
+        "ratio": "9.090000000000000e+000"
+      },
+      {
+        "region": "Республика Дагестан",
+        "count_obr": "1634",
+        "count_student": "374691",
+        "count_teacher": "41618",
+        "ratio": "9.000000000000000e+000"
+      },
+      {
+        "region": "Республика Ингушетия",
+        "count_obr": "112",
+        "count_student": "54596",
+        "count_teacher": "5810",
+        "ratio": "9.400000000000000e+000"
+      },
+      {
+        "region": "Кабардино-Балкарская республика",
+        "count_obr": "283",
+        "count_student": "90425",
+        "count_teacher": "5141",
+        "ratio": "1.759000000000000e+001"
+      },
+      {
+        "region": "Республика Калмыкия",
+        "count_obr": "165",
+        "count_student": "31764",
+        "count_teacher": "3441",
+        "ratio": "9.230000000000000e+000"
+      },
+      {
+        "region": "Карачаево-Черкесская республика",
+        "count_obr": "180",
+        "count_student": "45971",
+        "count_teacher": "4608",
+        "ratio": "9.980000000000000e+000"
+      },
+      {
+        "region": "Республика Карелия",
+        "count_obr": "221",
+        "count_student": "63112",
+        "count_teacher": "5444",
+        "ratio": "1.159000000000000e+001"
+      },
+      {
+        "region": "Республика Коми",
+        "count_obr": "412",
+        "count_student": "96775",
+        "count_teacher": "7917",
+        "ratio": "1.222000000000000e+001"
+      },
+      {
+        "region": "Республика Марий Эл",
+        "count_obr": "273",
+        "count_student": "66837",
+        "count_teacher": "5546",
+        "ratio": "1.205000000000000e+001"
+      },
+      {
+        "region": "Республика Мордовия",
+        "count_obr": "438",
+        "count_student": "68983",
+        "count_teacher": "6938",
+        "ratio": "9.940000000000000e+000"
+      },
+      {
+        "region": "Республика Саха (Якутия)",
+        "count_obr": "642",
+        "count_student": "137034",
+        "count_teacher": "14266",
+        "ratio": "9.609999999999999e+000"
+      },
+      {
+        "region": "Республика Северная Осетия — Алания",
+        "count_obr": "189",
+        "count_student": "79882",
+        "count_teacher": "6345",
+        "ratio": "1.259000000000000e+001"
+      },
+      {
+        "region": "Республика Татарстан",
+        "count_obr": "1768",
+        "count_student": "374145",
+        "count_teacher": "32500",
+        "ratio": "1.151000000000000e+001"
+      },
+      {
+        "region": "Республика Тыва",
+        "count_obr": "173",
+        "count_student": "54423",
+        "count_teacher": "4556",
+        "ratio": "1.195000000000000e+001"
+      },
+      {
+        "region": "Удмуртская республика",
+        "count_obr": "645",
+        "count_student": "157625",
+        "count_teacher": "12761",
+        "ratio": "1.235000000000000e+001"
+      },
+      {
+        "region": "Республика Хакасия",
+        "count_obr": "185",
+        "count_student": "56330",
+        "count_teacher": "4365",
+        "ratio": "1.290000000000000e+001"
+      },
+      {
+        "region": "Чеченская республика",
+        "count_obr": "448",
+        "count_student": "218652",
+        "count_teacher": "13392",
+        "ratio": "1.633000000000000e+001"
+      },
+      {
+        "region": "Чувашская республика",
+        "count_obr": "500",
+        "count_student": "126033",
+        "count_teacher": "9441",
+        "ratio": "1.335000000000000e+001"
+      },
+      {
+        "region": "Алтайский край",
+        "count_obr": "1175",
+        "count_student": "235839",
+        "count_teacher": "21752",
+        "ratio": "1.084000000000000e+001"
+      },
+      {
+        "region": "Краснодарский край",
+        "count_obr": "1231",
+        "count_student": "502053",
+        "count_teacher": "30867",
+        "ratio": "1.627000000000000e+001"
+      },
+      {
+        "region": "Красноярский край",
+        "count_obr": "1036",
+        "count_student": "293775",
+        "count_teacher": "22058",
+        "ratio": "1.332000000000000e+001"
+      },
+      {
+        "region": "Приморский край",
+        "count_obr": "548",
+        "count_student": "183775",
+        "count_teacher": "12104",
+        "ratio": "1.518000000000000e+001"
+      },
+      {
+        "region": "Ставропольский край",
+        "count_obr": "629",
+        "count_student": "253507",
+        "count_teacher": "17457",
+        "ratio": "1.452000000000000e+001"
+      },
+      {
+        "region": "Хабаровский край",
+        "count_obr": "400",
+        "count_student": "127054",
+        "count_teacher": "8793",
+        "ratio": "1.445000000000000e+001"
+      },
+      {
+        "region": "Амурская область",
+        "count_obr": "381",
+        "count_student": "92290",
+        "count_teacher": "7186",
+        "ratio": "1.284000000000000e+001"
+      },
+      {
+        "region": "Архангельская область",
+        "count_obr": "394",
+        "count_student": "115595",
+        "count_teacher": "9259",
+        "ratio": "1.248000000000000e+001"
+      },
+      {
+        "region": "Астраханская область",
+        "count_obr": "312",
+        "count_student": "98574",
+        "count_teacher": "7199",
+        "ratio": "1.369000000000000e+001"
+      },
+      {
+        "region": "Белгородская область",
+        "count_obr": "591",
+        "count_student": "136709",
+        "count_teacher": "11787",
+        "ratio": "1.160000000000000e+001"
+      },
+      {
+        "region": "Брянская область",
+        "count_obr": "651",
+        "count_student": "113058",
+        "count_teacher": "11121",
+        "ratio": "1.017000000000000e+001"
+      },
+      {
+        "region": "Владимирская область",
+        "count_obr": "423",
+        "count_student": "122125",
+        "count_teacher": "9062",
+        "ratio": "1.348000000000000e+001"
+      },
+      {
+        "region": "Волгоградская область",
+        "count_obr": "979",
+        "count_student": "225778",
+        "count_teacher": "17673",
+        "ratio": "1.278000000000000e+001"
+      },
+      {
+        "region": "Вологодская область",
+        "count_obr": "512",
+        "count_student": "115946",
+        "count_teacher": "17673",
+        "ratio": "6.560000000000001e+000"
+      },
+      {
+        "region": "Воронежская область",
+        "count_obr": "885",
+        "count_student": "194718",
+        "count_teacher": "9029",
+        "ratio": "2.157000000000000e+001"
+      },
+      {
+        "region": "Ивановская область",
+        "count_obr": "299",
+        "count_student": "85548",
+        "count_teacher": "5876",
+        "ratio": "1.456000000000000e+001"
+      },
+      {
+        "region": "Иркутская область",
+        "count_obr": "993",
+        "count_student": "270757",
+        "count_teacher": "19752",
+        "ratio": "1.371000000000000e+001"
+      },
+      {
+        "region": "Калининградская область",
+        "count_obr": "188",
+        "count_student": "86732",
+        "count_teacher": "5650",
+        "ratio": "1.535000000000000e+001"
+      },
+      {
+        "region": "Калужская область",
+        "count_obr": "374",
+        "count_student": "86822",
+        "count_teacher": "7083",
+        "ratio": "1.226000000000000e+001"
+      },
+      {
+        "region": "Камчатский край",
+        "count_obr": "119",
+        "count_student": "33312",
+        "count_teacher": "2538",
+        "ratio": "1.313000000000000e+001"
+      },
+      {
+        "region": "Кемеровская область",
+        "count_obr": "723",
+        "count_student": "264162",
+        "count_teacher": "16818",
+        "ratio": "1.571000000000000e+001"
+      },
+      {
+        "region": "Кировская область",
+        "count_obr": "607",
+        "count_student": "120115",
+        "count_teacher": "10577",
+        "ratio": "1.136000000000000e+001"
+      },
+      {
+        "region": "Костромская область",
+        "count_obr": "342",
+        "count_student": "61083",
+        "count_teacher": "5102",
+        "ratio": "1.197000000000000e+001"
+      },
+      {
+        "region": "Курганская область",
+        "count_obr": "507",
+        "count_student": "89628",
+        "count_teacher": "7862",
+        "ratio": "1.140000000000000e+001"
+      },
+      {
+        "region": "Курская область",
+        "count_obr": "629",
+        "count_student": "104385",
+        "count_teacher": "11792",
+        "ratio": "8.850000000000000e+000"
+      },
+      {
+        "region": "Ленинградская область",
+        "count_obr": "389",
+        "count_student": "126647",
+        "count_teacher": "9119",
+        "ratio": "1.389000000000000e+001"
+      },
+      {
+        "region": "Липецкая область",
+        "count_obr": "291",
+        "count_student": "103127",
+        "count_teacher": "8629",
+        "ratio": "1.195000000000000e+001"
+      },
+      {
+        "region": "Магаданская область",
+        "count_obr": "62",
+        "count_student": "15598",
+        "count_teacher": "1068",
+        "ratio": "1.460000000000000e+001"
+      },
+      {
+        "region": "Московская область",
+        "count_obr": "1442",
+        "count_student": "626720",
+        "count_teacher": "38449",
+        "ratio": "1.630000000000000e+001"
+      },
+      {
+        "region": "Мурманская область",
+        "count_obr": "178",
+        "count_student": "74047",
+        "count_teacher": "5082",
+        "ratio": "1.457000000000000e+001"
+      },
+      {
+        "region": "Нижегородская область",
+        "count_obr": "968",
+        "count_student": "282016",
+        "count_teacher": "20494",
+        "ratio": "1.376000000000000e+001"
+      },
+      {
+        "region": "Новгородская область",
+        "count_obr": "232",
+        "count_student": "56016",
+        "count_teacher": "4026",
+        "ratio": "1.391000000000000e+001"
+      },
+      {
+        "region": "Новосибирская область",
+        "count_obr": "1023",
+        "count_student": "251579",
+        "count_teacher": "20909",
+        "ratio": "1.203000000000000e+001"
+      },
+      {
+        "region": "Омская область",
+        "count_obr": "791",
+        "count_student": "193430",
+        "count_teacher": "14065",
+        "ratio": "1.375000000000000e+001"
+      },
+      {
+        "region": "Оренбургская область",
+        "count_obr": "1050",
+        "count_student": "206097",
+        "count_teacher": "18154",
+        "ratio": "1.135000000000000e+001"
+      },
+      {
+        "region": "Орловская область",
+        "count_obr": "421",
+        "count_student": "70273",
+        "count_teacher": "7464",
+        "ratio": "9.410000000000000e+000"
+      },
+      {
+        "region": "Пензенская область",
+        "count_obr": "480",
+        "count_student": "112136",
+        "count_teacher": "9118",
+        "ratio": "1.230000000000000e+001"
+      },
+      {
+        "region": "Пермский край",
+        "count_obr": "818",
+        "count_student": "274086",
+        "count_teacher": "18500",
+        "ratio": "1.482000000000000e+001"
+      },
+      {
+        "region": "Псковская область",
+        "count_obr": "245",
+        "count_student": "59426",
+        "count_teacher": "5229",
+        "ratio": "1.136000000000000e+001"
+      },
+      {
+        "region": "Ростовская область",
+        "count_obr": "1182",
+        "count_student": "374373",
+        "count_teacher": "27184",
+        "ratio": "1.377000000000000e+001"
+      },
+      {
+        "region": "Рязанская область",
+        "count_obr": "299",
+        "count_student": "94068",
+        "count_teacher": "8021",
+        "ratio": "1.173000000000000e+001"
+      },
+      {
+        "region": "Самарская область",
+        "count_obr": "724",
+        "count_student": "281796",
+        "count_teacher": "18835",
+        "ratio": "1.496000000000000e+001"
+      },
+      {
+        "region": "Саратовская область",
+        "count_obr": "981",
+        "count_student": "216613",
+        "count_teacher": "18974",
+        "ratio": "1.142000000000000e+001"
+      },
+      {
+        "region": "Сахалинская область",
+        "count_obr": "163",
+        "count_student": "50403",
+        "count_teacher": "3488",
+        "ratio": "1.445000000000000e+001"
+      },
+      {
+        "region": "Свердловская область",
+        "count_obr": "1122",
+        "count_student": "409243",
+        "count_teacher": "28229",
+        "ratio": "1.450000000000000e+001"
+      },
+      {
+        "region": "Смоленская область",
+        "count_obr": "481",
+        "count_student": "80700",
+        "count_teacher": "8399",
+        "ratio": "9.609999999999999e+000"
+      },
+      {
+        "region": "Тамбовская область",
+        "count_obr": "116",
+        "count_student": "93988",
+        "count_teacher": "8641",
+        "ratio": "1.088000000000000e+001"
+      },
+      {
+        "region": "Тверская область",
+        "count_obr": "564",
+        "count_student": "117295",
+        "count_teacher": "9414",
+        "ratio": "1.246000000000000e+001"
+      },
+      {
+        "region": "Томская область",
+        "count_obr": "353",
+        "count_student": "100290",
+        "count_teacher": "7560",
+        "ratio": "1.327000000000000e+001"
+      },
+      {
+        "region": "Тульская область",
+        "count_obr": "654",
+        "count_student": "120189",
+        "count_teacher": "10082",
+        "ratio": "1.192000000000000e+001"
+      },
+      {
+        "region": "Тюменская область",
+        "count_obr": "446",
+        "count_student": "140522",
+        "count_teacher": "8414",
+        "ratio": "1.670000000000000e+001"
+      },
+      {
+        "region": "Ульяновская область",
+        "count_obr": "495",
+        "count_student": "110995",
+        "count_teacher": "9201",
+        "ratio": "1.206000000000000e+001"
+      },
+      {
+        "region": "Челябинская область",
+        "count_obr": "896",
+        "count_student": "326106",
+        "count_teacher": "21896",
+        "ratio": "1.489000000000000e+001"
+      },
+      {
+        "region": "Забайкальский край",
+        "count_obr": "599",
+        "count_student": "136613",
+        "count_teacher": "10972",
+        "ratio": "1.245000000000000e+001"
+      },
+      {
+        "region": "Ярославская область",
+        "count_obr": "434",
+        "count_student": "109144",
+        "count_teacher": "8271",
+        "ratio": "1.320000000000000e+001"
+      },
+      {
+        "region": "Москва",
+        "count_obr": "1552",
+        "count_student": "778036",
+        "count_teacher": "55905",
+        "ratio": "1.392000000000000e+001"
+      },
+      {
+        "region": "Санкт-Петербург",
+        "count_obr": "679",
+        "count_student": "360337",
+        "count_teacher": "25914",
+        "ratio": "1.391000000000000e+001"
+      },
+      {
+        "region": "Еврейская автономная область",
+        "count_obr": "73",
+        "count_student": "18560",
+        "count_teacher": "1327",
+        "ratio": "1.399000000000000e+001"
+      },
+      {
+        "region": "Ненецкий автономный округ",
+        "count_obr": "38",
+        "count_student": "5772",
+        "count_teacher": "539",
+        "ratio": "1.071000000000000e+001"
+      },
+      {
+        "region": "Ханты-Мансийский автономный округ - Югра",
+        "count_obr": "356",
+        "count_student": "176163",
+        "count_teacher": "12176",
+        "ratio": "1.447000000000000e+001"
+      },
+      {
+        "region": "Чукотский автономный округ",
+        "count_obr": "42",
+        "count_student": "7080",
+        "count_teacher": "604",
+        "ratio": "1.172000000000000e+001"
+      },
+      {
+        "region": "Ямало-Ненецкий автономный округ",
+        "count_obr": "133",
+        "count_student": "68289",
+        "count_teacher": "4708",
+        "ratio": "1.450000000000000e+001"
+      }
+    ]
+  }
+}

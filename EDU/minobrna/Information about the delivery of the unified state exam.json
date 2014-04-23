@@ -1,0 +1,504 @@
+{
+  "part10": {
+    "record": [
+      {
+        "region": "Республика Адыгея",
+        "count_vyp": "2833",
+        "count_participant": "3232",
+        "count_100ball": "5"
+      },
+      {
+        "region": "Республика Башкортостан",
+        "count_vyp": "25731",
+        "count_participant": "28138",
+        "count_100ball": "27"
+      },
+      {
+        "region": "Республика Бурятия",
+        "count_vyp": "6890",
+        "count_participant": "7547",
+        "count_100ball": "15"
+      },
+      {
+        "region": "Республика Алтай",
+        "count_vyp": "1694",
+        "count_participant": "2180",
+        "count_100ball": "2"
+      },
+      {
+        "region": "Республика Дагестан",
+        "count_vyp": "25944",
+        "count_participant": "27338",
+        "count_100ball": "7"
+      },
+      {
+        "region": "Республика Ингушетия",
+        "count_vyp": "4179",
+        "count_participant": "4941",
+        "count_100ball": "6"
+      },
+      {
+        "region": "Кабардино-Балкарская республика",
+        "count_vyp": "6139",
+        "count_participant": "6587",
+        "count_100ball": "2"
+      },
+      {
+        "region": "Республика Калмыкия",
+        "count_vyp": "2341",
+        "count_participant": "2767",
+        "count_100ball": "19"
+      },
+      {
+        "region": "Карачаево-Черкесская республика",
+        "count_vyp": "3400",
+        "count_participant": "3899",
+        "count_100ball": "0"
+      },
+      {
+        "region": "Республика Карелия",
+        "count_vyp": "3830",
+        "count_participant": "4394",
+        "count_100ball": "20"
+      },
+      {
+        "region": "Республика Коми",
+        "count_vyp": "5365",
+        "count_participant": "6873",
+        "count_100ball": "5"
+      },
+      {
+        "region": "Республика Марий Эл",
+        "count_vyp": "3949",
+        "count_participant": "4553",
+        "count_100ball": "30"
+      },
+      {
+        "region": "Республика Мордовия",
+        "count_vyp": "4644",
+        "count_participant": "5113",
+        "count_100ball": "3"
+      },
+      {
+        "region": "Республика Саха (Якутия)",
+        "count_vyp": "11750",
+        "count_participant": "13653",
+        "count_100ball": "3"
+      },
+      {
+        "region": "Республика Северная Осетия — Алания",
+        "count_vyp": "6070",
+        "count_participant": "7013",
+        "count_100ball": "11"
+      },
+      {
+        "region": "Республика Татарстан",
+        "count_vyp": "21176",
+        "count_participant": "23008",
+        "count_100ball": "109"
+      },
+      {
+        "region": "Республика Тыва",
+        "count_vyp": "4443",
+        "count_participant": "7279",
+        "count_100ball": "1"
+      },
+      {
+        "region": "Удмуртская республика",
+        "count_vyp": "8424",
+        "count_participant": "9747",
+        "count_100ball": "33"
+      },
+      {
+        "region": "Республика Хакасия",
+        "count_vyp": "2952",
+        "count_participant": "3892",
+        "count_100ball": "9"
+      },
+      {
+        "region": "Чеченская республика",
+        "count_vyp": "11718",
+        "count_participant": "13944",
+        "count_100ball": "5"
+      },
+      {
+        "region": "Чувашская республика",
+        "count_vyp": "8751",
+        "count_participant": "9458",
+        "count_100ball": "79"
+      },
+      {
+        "region": "Алтайский край",
+        "count_vyp": "13976",
+        "count_participant": "15715",
+        "count_100ball": "46"
+      },
+      {
+        "region": "Краснодарский край",
+        "count_vyp": "25127",
+        "count_participant": "27635",
+        "count_100ball": "134"
+      },
+      {
+        "region": "Красноярский край",
+        "count_vyp": "18932",
+        "count_participant": "21615",
+        "count_100ball": "80"
+      },
+      {
+        "region": "Приморский край",
+        "count_vyp": "11602",
+        "count_participant": "12775",
+        "count_100ball": "8"
+      },
+      {
+        "region": "Ставропольский край",
+        "count_vyp": "14710",
+        "count_participant": "16112",
+        "count_100ball": "143"
+      },
+      {
+        "region": "Хабаровский край",
+        "count_vyp": "7836",
+        "count_participant": "8713",
+        "count_100ball": "16"
+      },
+      {
+        "region": "Амурская область",
+        "count_vyp": "5590",
+        "count_participant": "6280",
+        "count_100ball": "0"
+      },
+      {
+        "region": "Архангельская область",
+        "count_vyp": "7178",
+        "count_participant": "8667",
+        "count_100ball": "22"
+      },
+      {
+        "region": "Астраханская область",
+        "count_vyp": "3937",
+        "count_participant": "4754",
+        "count_100ball": "6"
+      },
+      {
+        "region": "Белгородская область",
+        "count_vyp": "9383",
+        "count_participant": "10288",
+        "count_100ball": "43"
+      },
+      {
+        "region": "Брянская область",
+        "count_vyp": "7301",
+        "count_participant": "8299",
+        "count_100ball": "104"
+      },
+      {
+        "region": "Владимирская область",
+        "count_vyp": "6844",
+        "count_participant": "7691",
+        "count_100ball": "49"
+      },
+      {
+        "region": "Волгоградская область",
+        "count_vyp": "13902",
+        "count_participant": "15989",
+        "count_100ball": "30"
+      },
+      {
+        "region": "Вологодская область",
+        "count_vyp": "5727",
+        "count_participant": "7115",
+        "count_100ball": "32"
+      },
+      {
+        "region": "Воронежская область",
+        "count_vyp": "12787",
+        "count_participant": "13802",
+        "count_100ball": "59"
+      },
+      {
+        "region": "Ивановская область",
+        "count_vyp": "4830",
+        "count_participant": "5620",
+        "count_100ball": "15"
+      },
+      {
+        "region": "Иркутская область",
+        "count_vyp": "14520",
+        "count_participant": "16750",
+        "count_100ball": "23"
+      },
+      {
+        "region": "Калининградская область",
+        "count_vyp": "4045",
+        "count_participant": "4692",
+        "count_100ball": "6"
+      },
+      {
+        "region": "Калужская область",
+        "count_vyp": "4962",
+        "count_participant": "5474",
+        "count_100ball": "31"
+      },
+      {
+        "region": "Камчатский край",
+        "count_vyp": "1419",
+        "count_participant": "1709",
+        "count_100ball": "2"
+      },
+      {
+        "region": "Кемеровская область",
+        "count_vyp": "13576",
+        "count_participant": "15423",
+        "count_100ball": "63"
+      },
+      {
+        "region": "Кировская область",
+        "count_vyp": "6532",
+        "count_participant": "7595",
+        "count_100ball": "55"
+      },
+      {
+        "region": "Костромская область",
+        "count_vyp": "2663",
+        "count_participant": "3218",
+        "count_100ball": "12"
+      },
+      {
+        "region": "Курганская область",
+        "count_vyp": "4589",
+        "count_participant": "5355",
+        "count_100ball": "20"
+      },
+      {
+        "region": "Курская область",
+        "count_vyp": "6046",
+        "count_participant": "6900",
+        "count_100ball": "33"
+      },
+      {
+        "region": "Ленинградская область",
+        "count_vyp": "6272",
+        "count_participant": "6888",
+        "count_100ball": "34"
+      },
+      {
+        "region": "Липецкая область",
+        "count_vyp": "6253",
+        "count_participant": "6834",
+        "count_100ball": "38"
+      },
+      {
+        "region": "Магаданская область",
+        "count_vyp": "758",
+        "count_participant": "977",
+        "count_100ball": "4"
+      },
+      {
+        "region": "Московская область",
+        "count_vyp": "34406",
+        "count_participant": "38348",
+        "count_100ball": "199"
+      },
+      {
+        "region": "Мурманская область",
+        "count_vyp": "3966",
+        "count_participant": "4794",
+        "count_100ball": "21"
+      },
+      {
+        "region": "Нижегородская область",
+        "count_vyp": "15277",
+        "count_participant": "17900",
+        "count_100ball": "47"
+      },
+      {
+        "region": "Новгородская область",
+        "count_vyp": "2890",
+        "count_participant": "3559",
+        "count_100ball": "14"
+      },
+      {
+        "region": "Новосибирская область",
+        "count_vyp": "15353",
+        "count_participant": "17296",
+        "count_100ball": "36"
+      },
+      {
+        "region": "Омская область",
+        "count_vyp": "11929",
+        "count_participant": "13581",
+        "count_100ball": "23"
+      },
+      {
+        "region": "Оренбургская область",
+        "count_vyp": "10356",
+        "count_participant": "11490",
+        "count_100ball": "48"
+      },
+      {
+        "region": "Орловская область",
+        "count_vyp": "4297",
+        "count_participant": "4852",
+        "count_100ball": "24"
+      },
+      {
+        "region": "Пензенская область",
+        "count_vyp": "6884",
+        "count_participant": "7554",
+        "count_100ball": "24"
+      },
+      {
+        "region": "Пермский край",
+        "count_vyp": "15100",
+        "count_participant": "16292",
+        "count_100ball": "90"
+      },
+      {
+        "region": "Псковская область",
+        "count_vyp": "3464",
+        "count_participant": "3741",
+        "count_100ball": "16"
+      },
+      {
+        "region": "Ростовская область",
+        "count_vyp": "22953",
+        "count_participant": "25581",
+        "count_100ball": "179"
+      },
+      {
+        "region": "Рязанская область",
+        "count_vyp": "3687",
+        "count_participant": "4134",
+        "count_100ball": "12"
+      },
+      {
+        "region": "Самарская область",
+        "count_vyp": "17199",
+        "count_participant": "18596",
+        "count_100ball": "98"
+      },
+      {
+        "region": "Саратовская область",
+        "count_vyp": "10884",
+        "count_participant": "12957",
+        "count_100ball": "32"
+      },
+      {
+        "region": "Сахалинская область",
+        "count_vyp": "3011",
+        "count_participant": "3488",
+        "count_100ball": "4"
+      },
+      {
+        "region": "Свердловская область",
+        "count_vyp": "22830",
+        "count_participant": "26990",
+        "count_100ball": "81"
+      },
+      {
+        "region": "Смоленская область",
+        "count_vyp": "5051",
+        "count_participant": "5559",
+        "count_100ball": "22"
+      },
+      {
+        "region": "Тамбовская область",
+        "count_vyp": "5826",
+        "count_participant": "6303",
+        "count_100ball": "35"
+      },
+      {
+        "region": "Тверская область",
+        "count_vyp": "6156",
+        "count_participant": "6984",
+        "count_100ball": "32"
+      },
+      {
+        "region": "Томская область",
+        "count_vyp": "5941",
+        "count_participant": "7180",
+        "count_100ball": "44"
+      },
+      {
+        "region": "Тульская область",
+        "count_vyp": "5267",
+        "count_participant": "6707",
+        "count_100ball": "18"
+      },
+      {
+        "region": "Тюменская область",
+        "count_vyp": "8640",
+        "count_participant": "9315",
+        "count_100ball": "25"
+      },
+      {
+        "region": "Ульяновская область",
+        "count_vyp": "6090",
+        "count_participant": "7088",
+        "count_100ball": "32"
+      },
+      {
+        "region": "Челябинская область",
+        "count_vyp": "12958",
+        "count_participant": "14978",
+        "count_100ball": "55"
+      },
+      {
+        "region": "Забайкальский край",
+        "count_vyp": "8037",
+        "count_participant": "8789",
+        "count_100ball": "6"
+      },
+      {
+        "region": "Ярославская область",
+        "count_vyp": "6015",
+        "count_participant": "7056",
+        "count_100ball": "34"
+      },
+      {
+        "region": "Москва",
+        "count_vyp": "55856",
+        "count_participant": "62983",
+        "count_100ball": "654"
+      },
+      {
+        "region": "Санкт-Петербург",
+        "count_vyp": "23962",
+        "count_participant": "29927",
+        "count_100ball": "124"
+      },
+      {
+        "region": "Еврейская автономная область",
+        "count_vyp": "1121",
+        "count_participant": "1226",
+        "count_100ball": "0"
+      },
+      {
+        "region": "Ненецкий автономный округ",
+        "count_vyp": "255",
+        "count_participant": "349",
+        "count_100ball": "1"
+      },
+      {
+        "region": "Ханты-Мансийский автономный округ - Югра",
+        "count_vyp": "10427",
+        "count_participant": "11699",
+        "count_100ball": "30"
+      },
+      {
+        "region": "Чукотский автономный округ",
+        "count_vyp": "395",
+        "count_participant": "516",
+        "count_100ball": "1"
+      },
+      {
+        "region": "Ямало-Ненецкий автономный округ",
+        "count_vyp": "4415",
+        "count_participant": "4885",
+        "count_100ball": "10"
+      }
+    ]
+  }
+}
