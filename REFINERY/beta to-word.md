@@ -95,17 +95,28 @@ API принимает запросы от сторонних приложени
 > Проблема открытых данных будет решена тогда, когда подобные проекты станут не единичным случаем, а массовым явлением. Мы будем продолжать работать с данными и регулярно обновлять актуальную информацию по мере необходимости и возможностей. 
 
 ### == ИСТОЧНИКИ ==
- [Список НПЗ России](http://www.wiki-prom.ru/20otrasl.html)
- [Нефтеперерабатывающая промышленность России](http://ru.wikipedia.org/wiki/Нефтеперерабатывающая_промышленность_России)
- [Каталог нефтеперерабатывающих заводов :: Бензин и горюче-смазочные материалы.](http://www.benzol.ru/npz/?status=2&page=1)
- [Роснефть - Нефтепереработка](http://www.rosneft.ru/Downstream/refining/)
- [Крупнейшие нефтеперерабатывающие заводы России](http://neftegas.info/engine/info/krupnjejshije-njeftjepjerjerabatyvajushhije-zavody-rossii)
- [Ведомости. "Своевременное предложение"](http://tbu.com.ua/digest/svoevremennoe_predlojenie.html)
- [Макет: Принципиальная схема добычи, транспортировки и переработки углеводородных ресурсов](http://www.maket-russia.ru/portfolio/portfolio-uchebnye-makety-i-modeli/maket-printsipialnaya-skhema-dobychi-transportirovki-i-pererabotki-uglevodorodnykh-resursov/)
- [Индекс Сложности Нельсона](http://neftegaz.ru/tech_library/view/4679)
- [Первичная переработка нефти. Установки ЭЛОУ - АВТ](http://e-him.ru/?page=dynamic&section=61&article=1165) 
- [JSON](http://ru.wikipedia.org/wiki/JSON) 
- [Проверка формата JSON](http://jsonformatter.curiousconcept.com/)
-  [HTMLBook.ru](http://htmlbook.ru/html5)
+ - [Список НПЗ России](http://www.wiki-prom.ru/20otrasl.html)
+ 
+ - [Нефтеперерабатывающая промышленность России](http://ru.wikipedia.org/wiki/Нефтеперерабатывающая_промышленность_России)
+ 
+ - [Каталог нефтеперерабатывающих заводов :: Бензин и горюче-смазочные материалы.](http://www.benzol.ru/npz/?status=2&page=1)
+ 
+ - [Роснефть - Нефтепереработка](http://www.rosneft.ru/Downstream/refining/)
+ 
+ - [Крупнейшие нефтеперерабатывающие заводы России](http://neftegas.info/engine/info/krupnjejshije-njeftjepjerjerabatyvajushhije-zavody-rossii)
+ 
+ - [Ведомости. "Своевременное предложение"](http://tbu.com.ua/digest/svoevremennoe_predlojenie.html)
+ 
+ - [Макет: Принципиальная схема добычи, транспортировки и переработки углеводородных ресурсов](http://www.maket-russia.ru/portfolio/portfolio-uchebnye-makety-i-modeli/maket-printsipialnaya-skhema-dobychi-transportirovki-i-pererabotki-uglevodorodnykh-resursov/)
+ 
+ - [Индекс СложностиНельсона](http://neftegaz.ru/tech_library/view/4679)
+ 
+ - [Первичная переработка нефти. Установки ЭЛОУ - АВТ](http://e-him.ru/?page=dynamic&section=61&article=1165) 
+ 
+ - [JSON](http://ru.wikipedia.org/wiki/JSON) 
+ 
+ - [Проверка формата JSON](http://jsonformatter.curiousconcept.com/)
+ 
+ - [HTMLBook.ru](http://htmlbook.ru/html5)
 
 
