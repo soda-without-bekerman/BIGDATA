@@ -81,11 +81,31 @@ API принимает запросы от сторонних приложени
         ]
     }
 ```
+### == СОАВТОРЫ ==
+
+## {У}
+
+|    |    |    |    |    |    |    |    |
+|----|----|----|----|----|----|----|----|
+|![Anna Boytsova](http://soda-io.github.io/BIGDATA/images/anna.jpg) |![Dmitry Shiukaev](https://avatars3.githubusercontent.com/u/5991448?s=74)|![MaximLoguncov](https://avatars2.githubusercontent.com/u/3838734?s=74)|![PavelShalaginov](https://avatars0.githubusercontent.com/u/3833771?s=74)|![SherozKarimov](https://avatars0.githubusercontent.com/u/4226210?s=74) |![ArtemKvadzba](https://avatars3.githubusercontent.com/u/4639509?s=74) | ![Misha Rubnicov](https://avatars1.githubusercontent.com/u/6498865?s=74) | ![George Ovchinnikov](https://avatars1.githubusercontent.com/u/6061182?s=74) |    
+| [Anna B](https://twitter.com/BoytsovaAnna) | [Dmitry S](https://github.com/DmitryShiukaev) | [Maxim L](https://github.com/MaximLoguncov) | [Pavel S](https://github.com/PavelShalaginov)| [Sheroz K](https://github.com/SherozKarimov) | [Artem K](https://github.com/ArtemKvadzba) | [Misha R](https://github.com/MishaRubnikov) | [George O](https://github.com/GeorgeOvchinnikov) |
+
+
+
+
+
+
+## {M}  
+
+|    |    | 
+|----|----|
+|![Kirill Temnov](https://avatars1.githubusercontent.com/u/147170?s=74) | ![Vitaly GB](https://avatars0.githubusercontent.com/u/842476?s=74) |
+|[Kirill T](https://github.com/KirillTemnov) |[Vitaly GB](https://github.com/VitalyGB)
+
 
 ### Выводы
 
 >
-Считаю, что мы добились необходимых результатов, которые планировали получить от этого проекта. 
  - Научились работать с открытыми источниками (искать, собирать, обрабатывать и переводить данные в машиночитаемый формат). 
  - Создали пару десятков датасетов в формате `JSON`, содержащие информацию по НПЗ России, и другим важным индустриям...
  - Визуализировали данные на основе датасета [интерактивная карта].
@@ -93,6 +113,12 @@ API принимает запросы от сторонних приложени
 
 ### Комментарии разработчиков 
 > Проблема открытых данных будет решена тогда, когда подобные проекты станут не единичным случаем, а массовым явлением. Мы будем продолжать работать с данными и регулярно обновлять актуальную информацию по мере необходимости и возможностей. 
+
+> Мы продолжим исследования и работу с данными. Обновлять актуальную информацию в режиме реального времени!
+
+> Мы надеемся, что в дальнейшем заинтересованные люди будут использовать эту информацию для своих проектов и не тратить огромное кол-во времени, усилий и средств.
+
+> Считаю, что мы добились необходимых результатов, которые планировали получить от этого проекта.
 
 ### == ИСТОЧНИКИ ==
  - [Список НПЗ России](http://www.wiki-prom.ru/20otrasl.html)
