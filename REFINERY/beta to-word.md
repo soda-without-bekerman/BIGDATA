@@ -23,6 +23,15 @@
 - Bash - консоль. Можно запускать/применять скрипты написанный на Coffee и утилиты
 - AWK - интерпретируемый скриптовый C-подобный язык построчного разбора и обработки входного потока (например, текстового файла) по заданным шаблонам. Работает в bash скриптах.
 
+### == ХОД РАБОТЫ ==
+
+- Поиск информации
+- Проверка информации
+- Структурирование и перевод информации в машиночитаемый формат (JSON)
+- Создание поисковой системы по базе данных проекта 
+- Создание странички проекта
+
+
 ### == ДОРОЖНАЯ КАРТА ==
  
 |   дата    | цель   |  список дел                              |
@@ -31,16 +40,16 @@
 | 01.06     | **✓**  | Перевести данные НПЗ в `JSON`            |
 | 10.03     | **✓**  | 3D модели НПЗ                            |
 | 14.04     | **✓**  | Страница проекта `GitHub`                | 
-| 26.04     | **▢**  | Карта проекта                            |
-| 28.04     | **▢**  | Demo day!                                | 
-| 20.05     | **▢**  | Написание скриптов, для работы с данными |
-| 28.05     | **▢**  | Разработка мобильного приложения         |
+| 28.04     | **✓**  | Demo day!                                | 
+| 24.05     | **▢**  | Карта проекта                            |
+| 26.05     | **▢**  | Написание скриптов, для работы с данными |
+| 31.05     | **▢**  | Разработка мобильного приложения         |
 | 15.06     | **▢**  | Альфа-релиз                              |
 
 
 ### Пример dataset в JSON
 
-```
+```json
 {
     "name":"Ачинский НПЗ",
     "address":"Россия, Красноярский край, Большеулуйский район, промзона НПЗ ОАО АНПЗ ВНК",
@@ -72,25 +81,22 @@
 >
  - Научились работать с открытыми источниками (искать, собирать, обрабатывать и переводить данные в машиночитаемый формат). 
  - Создали 32 датасета в формате `JSON`, содержащие информацию по крупнейшим НПЗ России, и другим важным индустриям...
- - Визуализировали данные на основе датасета [интерактивная карта].
+ - Научились писать на скриптовых языках.
 
 
-### == СОАВТОРЫ ==
+### == АВТОРЫ ==
 
-## {У}
+### УЧАСТНИКИ
 
-|    |    |    |    |    |    |    |    |
-|----|----|----|----|----|----|----|----|
-|![Anna Boytsova](http://soda-io.github.io/BIGDATA/images/anna.jpg) |![Dmitry Shiukaev](https://avatars3.githubusercontent.com/u/5991448?s=74)|![MaximLoguncov](https://avatars2.githubusercontent.com/u/3838734?s=74)|![PavelShalaginov](https://avatars0.githubusercontent.com/u/3833771?s=74)|![SherozKarimov](https://avatars0.githubusercontent.com/u/4226210?s=74) |![ArtemKvadzba](https://avatars3.githubusercontent.com/u/4639509?s=74) | ![Misha Rubnicov](https://avatars1.githubusercontent.com/u/6498865?s=74) | ![George Ovchinnikov](https://avatars1.githubusercontent.com/u/6061182?s=74) |    
-| [Anna B](https://twitter.com/BoytsovaAnna) | [Dmitry S](https://github.com/DmitryShiukaev) | [Maxim L](https://github.com/MaximLoguncov) | [Pavel S](https://github.com/PavelShalaginov)| [Sheroz K](https://github.com/SherozKarimov) | [Artem K](https://github.com/ArtemKvadzba) | [Misha R](https://github.com/MishaRubnikov) | [George O](https://github.com/GeorgeOvchinnikov) |
+- Шиукаев Д.Г.
+- Каримов Ш.Д.
+- Шалагинов П.А.
+- Логунцов М.А.
 
+### РУКОВОДИТЕЛИ
 
-## {M}  
-
-|    |    | 
-|----|----|
-|![Kirill Temnov](https://avatars1.githubusercontent.com/u/147170?s=74) | ![Vitaly GB](https://avatars0.githubusercontent.com/u/842476?s=74) |
-|[Kirill T](https://github.com/KirillTemnov) |[Vitaly GB](https://github.com/VitalyGB)
+- Темнов К.А.
+- Тищенко Н.И.
 
 ### == КОММЕНТАРИИ == 
 
@@ -103,31 +109,38 @@
 > Считаю, что мы добились необходимых результатов, которые планировали получить от этого проекта.
 > ![](https://avatars0.githubusercontent.com/u/4226210?s=16)[ SherozKarimov](https://github.com/SherozKarimov) 
 
+### Планы на будущее
+
+В скором времени мы создадим сайт проекта с интерактивной картой, на которой будут размещены все НПЗ и полная информация по каждому из них, карта с трубопроводами России. И мы не остановимся на достигнутом, разработчики SODA будут пополнять информацию о НПЗ России по мере её необходимости. Ещё будет разработано мобильное приложение, которое в мгновение будет выдавать вам всю информацию о конкретном НПЗ.
+
 
 ### == ИСТОЧНИКИ ==
- - [Список НПЗ России](http://www.wiki-prom.ru/20otrasl.html)
+
+Вся информация бралась из открытых источников, никаких секретных материалов мы не собирали и не опубликовывали.
+
+ 1. Список НПЗ России (http://www.wiki-prom.ru/20otrasl.html)
  
- - [Нефтеперерабатывающая промышленность России](http://ru.wikipedia.org/wiki/Нефтеперерабатывающая_промышленность_России)
+ 2. Нефтеперерабатывающая промышленность России (http://ru.wikipedia.org/wiki/Нефтеперерабатывающая_промышленность_России)
  
- - [Каталог нефтеперерабатывающих заводов :: Бензин и горюче-смазочные материалы.](http://www.benzol.ru/npz/?status=2&page=1)
+ 3. Каталог нефтеперерабатывающих заводов :: Бензин и горюче-смазочные материалы. (http://www.benzol.ru/npz/?status=2&page=1)
  
- - [Роснефть - Нефтепереработка](http://www.rosneft.ru/Downstream/refining/)
+ 4. Роснефть - Нефтепереработка (http://www.rosneft.ru/Downstream/refining/)
  
- - [Крупнейшие нефтеперерабатывающие заводы России](http://neftegas.info/engine/info/krupnjejshije-njeftjepjerjerabatyvajushhije-zavody-rossii)
+ 5. Крупнейшие нефтеперерабатывающие заводы России (http://neftegas.info/engine/info/krupnjejshije-njeftjepjerjerabatyvajushhije-zavody-rossii)
  
- - [Ведомости. "Своевременное предложение"](http://tbu.com.ua/digest/svoevremennoe_predlojenie.html)
+ 6. Ведомости. "Своевременное предложение" (http://tbu.com.ua/digest/svoevremennoe_predlojenie.html)
  
- - [Макет: Принципиальная схема добычи, транспортировки и переработки углеводородных ресурсов](http://www.maket-russia.ru/portfolio/portfolio-uchebnye-makety-i-modeli/maket-printsipialnaya-skhema-dobychi-transportirovki-i-pererabotki-uglevodorodnykh-resursov/)
+ 7. Макет: Принципиальная схема добычи, транспортировки и переработки углеводородных ресурсов (http://www.maket-russia.ru/portfolio/portfolio-uchebnye-makety-i-modeli/maket-printsipialnaya-skhema-dobychi-transportirovki-i-pererabotki-uglevodorodnykh-resursov/)
  
- - [Индекс СложностиНельсона](http://neftegaz.ru/tech_library/view/4679)
+ 8. Индекс Сложности Нельсона (http://neftegaz.ru/tech_library/view/4679)
+  
+ 9. Первичная переработка нефти. Установки ЭЛОУ - АВТ (http://e-him.ru/?page=dynamic&section=61&article=1165) 
  
- - [Первичная переработка нефти. Установки ЭЛОУ - АВТ](http://e-him.ru/?page=dynamic&section=61&article=1165) 
+ 10. JSON (http://ru.wikipedia.org/wiki/JSON) 
  
- - [JSON](http://ru.wikipedia.org/wiki/JSON) 
+ 11. Проверка формата JSON (http://jsonformatter.curiousconcept.com/)
  
- - [Проверка формата JSON](http://jsonformatter.curiousconcept.com/)
- 
- - [HTMLBook.ru](http://htmlbook.ru/html5)
+ 12. HTMLBook.ru (http://htmlbook.ru/html5)
 
 
 ### АВТОРСКИЕ ПРАВА
